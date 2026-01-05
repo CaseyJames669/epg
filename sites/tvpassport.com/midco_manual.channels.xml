@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel lang="en" site="tvpassport.com" site_id="nbc-kvly-fargo-nd/1582" xmltv_id="KVLYDT1.us@SD">NBC (KVLY) Fargo, ND</channel>
+  <channel lang="en" site="tvpassport.com" site_id="kbmy-abc-bismarck-nd/4531" xmltv_id="KBMYDT1.us@SD">ABC (KBMY) Bismarck, ND</channel>
+  <channel lang="en" site="tvpassport.com" site_id="kfyr-nbc-bismarck-nd/4537" xmltv_id="KFYRDT1.us@SD">NBC (KFYR) Bismarck, ND</channel>
+  <channel lang="en" site="tvpassport.com" site_id="kmeg-cbs-sioux-city-ia/4740" xmltv_id="KMEGDT1.us@SD">CBS (KMEG) Sioux City, IA</channel>
+  <channel lang="en" site="tvpassport.com" site_id="kttw-fox-sioux-falls-sd/4783" xmltv_id="KTTWDT1.us@SD">Fox (KTTW) Sioux Falls, SD</channel>
+  <channel lang="en" site="tvpassport.com" site_id="kelo2-mytv-sioux-falls-sd/2330" xmltv_id="KELODT2.us@SD">MyTV (KELO2) Sioux Falls, SD</channel>
+  <channel lang="en" site="tvpassport.com" site_id="nbc-kdlt-sioux-falls-sd/1060" xmltv_id="KDLTDT1.us@SD">NBC (KDLT) Sioux Falls, SD</channel>
+  <channel lang="en" site="tvpassport.com" site_id="cbs-kxmb-bismarck-nd/1381" xmltv_id="KXMBDT1.us@SD">CBS (KXMB) Bismarck, ND</channel>
+  <channel lang="en" site="tvpassport.com" site_id="midco-sports-network/8310" xmltv_id="midco-sports-network/8310">Midco Sports Network</channel>
+  <channel lang="en" site="tvpassport.com" site_id="midco-sports-network-2/8312" xmltv_id="midco-sports-network-2/8312">Midco Sports Network 2</channel>
+  <channel lang="en" site="tvpassport.com" site_id="midco-sports-network-3/8313" xmltv_id="midco-sports-network-3/8313">Midco Sports Network 3</channel>
+  <channel lang="en" site="tvpassport.com" site_id="bek-sports-247/14544" xmltv_id="bek-sports-247/14544">BEK Sports 24/7</channel>
+  <channel lang="en" site="tvpassport.com" site_id="bek-sports/14545" xmltv_id="bek-sports/14545">BEK Sports</channel>
+  <channel lang="en" site="tvpassport.com" site_id="big-ten-network/4499" xmltv_id="BigTenNetwork.us@SD">Big Ten Network</channel>
+  <channel lang="en" site="tvpassport.com" site_id="big-ten-network-overflow-1/8822" xmltv_id="BigTenNetworkOverflow1.us@SD">Big Ten Network Overflow 1</channel>
+  <channel lang="en" site="tvpassport.com" site_id="big-ten-network-overflow-2/8823" xmltv_id="BigTenNetworkOverflow2.us@SD">Big Ten Network Overflow 2</channel>
+  <channel lang="en" site="tvpassport.com" site_id="big-ten-network-overflow-3/8824" xmltv_id="BigTenNetworkOverflow3.us@SD">Big Ten Network Overflow 3</channel>
+</channels>
