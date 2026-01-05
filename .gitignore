@@ -4,6 +4,9 @@
 /custom.xml
 /guide.xml
 /guide.xml.gz
+iptv_cat.xml
+custom_channels.xml
+/temp_epg/
 .secrets
 
 # macOS

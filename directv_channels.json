@@ -1,0 +1,6267 @@
+{
+  "stats": {
+    "total_channels": 1043,
+    "with_xmltv_id": 640,
+    "missing_xmltv_id": 403
+  },
+  "channels": [
+    {
+      "name": "WINS",
+      "site_id": "1#238",
+      "xmltv_id": "",
+      "strict_key": "wins"
+    },
+    {
+      "name": "Parkersburg, WV WCHS ABC 8 A3 HD",
+      "site_id": "8#815",
+      "xmltv_id": "WCHSDT1.us@SD",
+      "strict_key": "parkersburgwvwchsabc8a3hd"
+    },
+    {
+      "name": "Parkersburg, WV WCHS ABC 8 SD",
+      "site_id": "8#816",
+      "xmltv_id": "WCHSDT1.us@SD",
+      "strict_key": "parkersburgwvwchsabc8sd"
+    },
+    {
+      "name": "Parkersburg, WV WTAP NBC 15 A3 HD",
+      "site_id": "15#2073",
+      "xmltv_id": "WTAPDT1.us@SD",
+      "strict_key": "parkersburgwvwtapnbc15a3hd"
+    },
+    {
+      "name": "Parkersburg, WV WTAPDT2 MNT 17 A3 SD",
+      "site_id": "17#2076",
+      "xmltv_id": "WTAPDT2.us@SD",
+      "strict_key": "parkersburgwvwtapdt2mnt17a3sd"
+    },
+    {
+      "name": "Parkersburg, WV WOVA FOX 22 A3 HD",
+      "site_id": "22#6069",
+      "xmltv_id": "WOVALD1.us@SD",
+      "strict_key": "parkersburgwvwovafox22a3hd"
+    },
+    {
+      "name": "Parkersburg, WV WIYE CBS 47 A3 HD",
+      "site_id": "47#6092",
+      "xmltv_id": "WIYELD1.us@SD",
+      "strict_key": "parkersburgwvwiyecbs47a3hd"
+    },
+    {
+      "name": "A3 Parkersburg 65 PBS (Virt)",
+      "site_id": "65#4317",
+      "xmltv_id": "W51EGD1.us@SD",
+      "strict_key": "a3parkersburg65pbsvirt"
+    },
+    {
+      "name": "QVC (70)",
+      "site_id": "70#3849",
+      "xmltv_id": "QVC.us@SD",
+      "strict_key": "qvc70"
+    },
+    {
+      "name": "Home Shopping Network 70-1",
+      "site_id": "70#4062",
+      "xmltv_id": "HSN.us@East",
+      "strict_key": "homeshoppingnetwork701"
+    },
+    {
+      "name": "Home Shopping Network 70-1 (HD)",
+      "site_id": "70#4063",
+      "xmltv_id": "HSN.us@East",
+      "strict_key": "homeshoppingnetwork701hd"
+    },
+    {
+      "name": "QVC HD (70)",
+      "site_id": "70#6111",
+      "xmltv_id": "QVC.us@SD",
+      "strict_key": "qvchd70"
+    },
+    {
+      "name": "News Mix 71",
+      "site_id": "71#6505",
+      "xmltv_id": "",
+      "strict_key": "newsmix71"
+    },
+    {
+      "name": "Jewelry Television (72)",
+      "site_id": "72#1977",
+      "xmltv_id": "JewelryTV.us@SD",
+      "strict_key": "jewelrytelevision72"
+    },
+    {
+      "name": "SHOP HQ (73)",
+      "site_id": "73#6209",
+      "xmltv_id": "ShopHQ.us@SD",
+      "strict_key": "shophq73"
+    },
+    {
+      "name": "SALE Network.",
+      "site_id": "74#1978",
+      "xmltv_id": "",
+      "strict_key": "salenetwork"
+    },
+    {
+      "name": "Shop LC (75)",
+      "site_id": "75#354",
+      "xmltv_id": "ShopLC.us@SD",
+      "strict_key": "shoplc75"
+    },
+    {
+      "name": "QVC2 (76)",
+      "site_id": "76#4328",
+      "xmltv_id": "QVC2.us@SD",
+      "strict_key": "qvc276"
+    },
+    {
+      "name": "NEW TV (77)",
+      "site_id": "77#553",
+      "xmltv_id": "",
+      "strict_key": "newtv77"
+    },
+    {
+      "name": "COOL Network 78",
+      "site_id": "78#219",
+      "xmltv_id": "",
+      "strict_key": "coolnetwork78"
+    },
+    {
+      "name": "QVC2 (79)",
+      "site_id": "79#5239",
+      "xmltv_id": "QVC2.us@SD",
+      "strict_key": "qvc279"
+    },
+    {
+      "name": "COZI TV",
+      "site_id": "80#6170",
+      "xmltv_id": "",
+      "strict_key": "cozitv"
+    },
+    {
+      "name": "GRIT",
+      "site_id": "81#6172",
+      "xmltv_id": "Grit.us@SD",
+      "strict_key": "grit"
+    },
+    {
+      "name": "BounceTV",
+      "site_id": "82#6171",
+      "xmltv_id": "Bounce.us@SD",
+      "strict_key": "bouncetv"
+    },
+    {
+      "name": "WOW TV 83",
+      "site_id": "83#358",
+      "xmltv_id": "",
+      "strict_key": "wowtv83"
+    },
+    {
+      "name": "IDEA Channel 84",
+      "site_id": "84#361",
+      "xmltv_id": "",
+      "strict_key": "ideachannel84"
+    },
+    {
+      "name": "RENEW TV (85-1)",
+      "site_id": "85#332",
+      "xmltv_id": "",
+      "strict_key": "renewtv851"
+    },
+    {
+      "name": "Get IT Infomercial 85-3",
+      "site_id": "85#348",
+      "xmltv_id": "",
+      "strict_key": "getitinfomercial853"
+    },
+    {
+      "name": "Save",
+      "site_id": "85#1974",
+      "xmltv_id": "",
+      "strict_key": "save"
+    },
+    {
+      "name": "HOME TV (85-2)",
+      "site_id": "85#1975",
+      "xmltv_id": "",
+      "strict_key": "hometv852"
+    },
+    {
+      "name": "VALU 86",
+      "site_id": "86#6177",
+      "xmltv_id": "",
+      "strict_key": "valu86"
+    },
+    {
+      "name": "DEALS",
+      "site_id": "87#315",
+      "xmltv_id": "",
+      "strict_key": "deals"
+    },
+    {
+      "name": "BEST Channel 88",
+      "site_id": "88#349",
+      "xmltv_id": "",
+      "strict_key": "bestchannel88"
+    },
+    {
+      "name": "VISION TV Channel 89",
+      "site_id": "89#390",
+      "xmltv_id": "",
+      "strict_key": "visiontvchannel89"
+    },
+    {
+      "name": "FRESH (91)",
+      "site_id": "91#1311",
+      "xmltv_id": "",
+      "strict_key": "fresh91"
+    },
+    {
+      "name": "CRAVE (92)",
+      "site_id": "92#656",
+      "xmltv_id": "",
+      "strict_key": "crave92"
+    },
+    {
+      "name": "Celebrity Shopping TV 95",
+      "site_id": "95#1979",
+      "xmltv_id": "",
+      "strict_key": "celebrityshoppingtv95"
+    },
+    {
+      "name": "SEEK 97 HD",
+      "site_id": "97#496",
+      "xmltv_id": "",
+      "strict_key": "seek97hd"
+    },
+    {
+      "name": "Interactive Advertising Channel HD (98)",
+      "site_id": "98#498",
+      "xmltv_id": "",
+      "strict_key": "interactiveadvertisingchannelhd98"
+    },
+    {
+      "name": "XTRA (99)",
+      "site_id": "99#8915",
+      "xmltv_id": "",
+      "strict_key": "xtra99"
+    },
+    {
+      "name": "DTV4K",
+      "site_id": "104#6633",
+      "xmltv_id": "",
+      "strict_key": "dtv4k"
+    },
+    {
+      "name": "CINE4K 107",
+      "site_id": "107#6634",
+      "xmltv_id": "",
+      "strict_key": "cine4k107"
+    },
+    {
+      "name": "CINE4K PPV",
+      "site_id": "108#580",
+      "xmltv_id": "",
+      "strict_key": "cine4kppv"
+    },
+    {
+      "name": "Interactive Advertising Channel HD 111",
+      "site_id": "111#111",
+      "xmltv_id": "",
+      "strict_key": "interactiveadvertisingchannelhd111"
+    },
+    {
+      "name": "Seasonal Sports Offer Channel",
+      "site_id": "113#106",
+      "xmltv_id": "",
+      "strict_key": "seasonalsportsofferchannel"
+    },
+    {
+      "name": "DTV Cinema 114 HD",
+      "site_id": "114#107",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema114hd"
+    },
+    {
+      "name": "DTV Cinema 115",
+      "site_id": "115#108",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema115"
+    },
+    {
+      "name": "DTV Cinema 118 HD",
+      "site_id": "118#6590",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema118hd"
+    },
+    {
+      "name": "DTV Cinema 119",
+      "site_id": "119#119",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema119"
+    },
+    {
+      "name": "DTV Cinema 120",
+      "site_id": "120#120",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema120"
+    },
+    {
+      "name": "DTV Cinema 123 HD",
+      "site_id": "123#123",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema123hd"
+    },
+    {
+      "name": "DTV Cinema 124",
+      "site_id": "124#124",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema124"
+    },
+    {
+      "name": "DTV Cinema 126 HD",
+      "site_id": "126#126",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema126hd"
+    },
+    {
+      "name": "DTV Cinema 127 HD",
+      "site_id": "127#127",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema127hd"
+    },
+    {
+      "name": "DTV Cinema 128 HD",
+      "site_id": "128#128",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema128hd"
+    },
+    {
+      "name": "DTV Cinema 129 HD",
+      "site_id": "129#129",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema129hd"
+    },
+    {
+      "name": "DTV Cinema 130 HD",
+      "site_id": "130#130",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema130hd"
+    },
+    {
+      "name": "DTV Cinema 155 HD",
+      "site_id": "155#155",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema155hd"
+    },
+    {
+      "name": "DTV Cinema 156 HD",
+      "site_id": "156#8389",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema156hd"
+    },
+    {
+      "name": "DTV Cinema 157 HD",
+      "site_id": "157#157",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema157hd"
+    },
+    {
+      "name": "DTV Cinema 158 HD",
+      "site_id": "158#158",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema158hd"
+    },
+    {
+      "name": "DTV Cinema 159",
+      "site_id": "159#159",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema159"
+    },
+    {
+      "name": "DTV Cinema 160",
+      "site_id": "160#160",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema160"
+    },
+    {
+      "name": "DTV Cinema 161",
+      "site_id": "161#161",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema161"
+    },
+    {
+      "name": "DTV Cinema 162",
+      "site_id": "162#162",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema162"
+    },
+    {
+      "name": "DTV Cinema 163",
+      "site_id": "163#163",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema163"
+    },
+    {
+      "name": "DTV Cinema 164",
+      "site_id": "164#164",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema164"
+    },
+    {
+      "name": "DTV Cinema 165",
+      "site_id": "165#165",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema165"
+    },
+    {
+      "name": "DTV Cinema 166",
+      "site_id": "166#166",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema166"
+    },
+    {
+      "name": "DTV Cinema 167",
+      "site_id": "167#167",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema167"
+    },
+    {
+      "name": "DTV Cinema 168",
+      "site_id": "168#168",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema168"
+    },
+    {
+      "name": "DTV Cinema 169",
+      "site_id": "169#169",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema169"
+    },
+    {
+      "name": "DTV Cinema 170",
+      "site_id": "170#170",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema170"
+    },
+    {
+      "name": "DTV Cinema 171",
+      "site_id": "171#171",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema171"
+    },
+    {
+      "name": "DTV Cinema 172",
+      "site_id": "172#172",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema172"
+    },
+    {
+      "name": "DTV Cinema 173",
+      "site_id": "173#173",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema173"
+    },
+    {
+      "name": "DTV Cinema 174",
+      "site_id": "174#174",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema174"
+    },
+    {
+      "name": "DTV Cinema 175",
+      "site_id": "175#175",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema175"
+    },
+    {
+      "name": "DTV Cinema 176",
+      "site_id": "176#176",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema176"
+    },
+    {
+      "name": "DTV Cinema 177",
+      "site_id": "177#177",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema177"
+    },
+    {
+      "name": "DTV Cinema 181",
+      "site_id": "181#181",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema181"
+    },
+    {
+      "name": "Kids Mix Channel",
+      "site_id": "199#8111",
+      "xmltv_id": "",
+      "strict_key": "kidsmixchannel"
+    },
+    {
+      "name": "News Mix",
+      "site_id": "200#436",
+      "xmltv_id": "",
+      "strict_key": "newsmix"
+    },
+    {
+      "name": "CNN",
+      "site_id": "202#202",
+      "xmltv_id": "CNN.us@SD",
+      "strict_key": "cnn"
+    },
+    {
+      "name": "CNN HD",
+      "site_id": "202#8249",
+      "xmltv_id": "CNN.us@SD",
+      "strict_key": "cnnhd"
+    },
+    {
+      "name": "COOL Network 203",
+      "site_id": "203#217",
+      "xmltv_id": "",
+      "strict_key": "coolnetwork203"
+    },
+    {
+      "name": "HLN",
+      "site_id": "204#204",
+      "xmltv_id": "HLN.us@SD",
+      "strict_key": "hln"
+    },
+    {
+      "name": "HLN HD",
+      "site_id": "204#6218",
+      "xmltv_id": "HLN.us@SD",
+      "strict_key": "hlnhd"
+    },
+    {
+      "name": "SPORTS MIX HD (205)",
+      "site_id": "205#5205",
+      "xmltv_id": "",
+      "strict_key": "sportsmixhd205"
+    },
+    {
+      "name": "ESPN",
+      "site_id": "206#206",
+      "xmltv_id": "ESPN.us@SD",
+      "strict_key": "espn"
+    },
+    {
+      "name": "ESPN HD",
+      "site_id": "206#1964",
+      "xmltv_id": "ESPN.us@SD",
+      "strict_key": "espnhd"
+    },
+    {
+      "name": "ESPNews",
+      "site_id": "207#207",
+      "xmltv_id": "ESPNews.us@SD",
+      "strict_key": "espnews"
+    },
+    {
+      "name": "ESPNews HD",
+      "site_id": "207#8235",
+      "xmltv_id": "ESPNews.us@SD",
+      "strict_key": "espnewshd"
+    },
+    {
+      "name": "ESPNU HD",
+      "site_id": "208#2355",
+      "xmltv_id": "ESPNU.us@SD",
+      "strict_key": "espnuhd"
+    },
+    {
+      "name": "ESPNU",
+      "site_id": "208#2614",
+      "xmltv_id": "ESPNU.us@SD",
+      "strict_key": "espnu"
+    },
+    {
+      "name": "ESPN2",
+      "site_id": "209#209",
+      "xmltv_id": "ESPN2.us@SD",
+      "strict_key": "espn2"
+    },
+    {
+      "name": "ESPN2 HD",
+      "site_id": "209#1965",
+      "xmltv_id": "ESPN2.us@SD",
+      "strict_key": "espn2hd"
+    },
+    {
+      "name": "NFL Network",
+      "site_id": "212#212",
+      "xmltv_id": "NFLNetwork.us@SD",
+      "strict_key": "nflnetwork"
+    },
+    {
+      "name": "NFL Network Alternate",
+      "site_id": "212#441",
+      "xmltv_id": "",
+      "strict_key": "nflnetworkalternate"
+    },
+    {
+      "name": "NFL Network Alternate HD",
+      "site_id": "212#442",
+      "xmltv_id": "",
+      "strict_key": "nflnetworkalternatehd"
+    },
+    {
+      "name": "NFL Network HD",
+      "site_id": "212#8225",
+      "xmltv_id": "NFLNetwork.us@SD",
+      "strict_key": "nflnetworkhd"
+    },
+    {
+      "name": "MLB Network Alt. 213-1",
+      "site_id": "213#214",
+      "xmltv_id": "MLBNetworkAlternate.us@SD",
+      "strict_key": "mlbnetworkalt2131"
+    },
+    {
+      "name": "MLB Network",
+      "site_id": "213#3227",
+      "xmltv_id": "MLBNetwork.us@SD",
+      "strict_key": "mlbnetwork"
+    },
+    {
+      "name": "MLB Network HD",
+      "site_id": "213#3228",
+      "xmltv_id": "",
+      "strict_key": "mlbnetworkhd"
+    },
+    {
+      "name": "MLB Network Alt. 213-1 HD",
+      "site_id": "213#5214",
+      "xmltv_id": "",
+      "strict_key": "mlbnetworkalt2131hd"
+    },
+    {
+      "name": "MAVTV HD",
+      "site_id": "214#574",
+      "xmltv_id": "",
+      "strict_key": "mavtvhd"
+    },
+    {
+      "name": "NHL Network",
+      "site_id": "215#2468",
+      "xmltv_id": "NHLNetwork.us@SD",
+      "strict_key": "nhlnetwork"
+    },
+    {
+      "name": "NHL Network Alternate",
+      "site_id": "215#5508",
+      "xmltv_id": "NHLNetworkAlternate.us@SD",
+      "strict_key": "nhlnetworkalternate"
+    },
+    {
+      "name": "NHL Network Alternate HD",
+      "site_id": "215#5509",
+      "xmltv_id": "NHLNetworkAlternate.us@SD",
+      "strict_key": "nhlnetworkalternatehd"
+    },
+    {
+      "name": "NHL Network HD",
+      "site_id": "215#8230",
+      "xmltv_id": "NHLNetwork.us@SD",
+      "strict_key": "nhlnetworkhd"
+    },
+    {
+      "name": "NBA TV",
+      "site_id": "216#601",
+      "xmltv_id": "NBATV.us@SD",
+      "strict_key": "nbatv"
+    },
+    {
+      "name": "NBA TV HD",
+      "site_id": "216#8220",
+      "xmltv_id": "NBATV.us@SD",
+      "strict_key": "nbatvhd"
+    },
+    {
+      "name": "Tennis Channel",
+      "site_id": "217#3088",
+      "xmltv_id": "TennisChannel.us@SD",
+      "strict_key": "tennischannel"
+    },
+    {
+      "name": "Tennis Channel HD",
+      "site_id": "217#8240",
+      "xmltv_id": "TennisChannel.us@SD",
+      "strict_key": "tennischannelhd"
+    },
+    {
+      "name": "Golf Channel",
+      "site_id": "218#605",
+      "xmltv_id": "GolfChannel.us@SD",
+      "strict_key": "golfchannel"
+    },
+    {
+      "name": "Golf Channel HD",
+      "site_id": "218#5605",
+      "xmltv_id": "GolfChannel.us@SD",
+      "strict_key": "golfchannelhd"
+    },
+    {
+      "name": "FOX Sports 1",
+      "site_id": "219#607",
+      "xmltv_id": "",
+      "strict_key": "foxsports1"
+    },
+    {
+      "name": "FOX Sports 1 HD",
+      "site_id": "219#8242",
+      "xmltv_id": "",
+      "strict_key": "foxsports1hd"
+    },
+    {
+      "name": "CBS Sports Network",
+      "site_id": "221#2613",
+      "xmltv_id": "CBSSportsNetworkUSA.us@SD",
+      "strict_key": "cbssportsnetwork"
+    },
+    {
+      "name": "CBS Sports Network HD",
+      "site_id": "221#5613",
+      "xmltv_id": "CBSSportsNetworkUSA.us@SD",
+      "strict_key": "cbssportsnetworkhd"
+    },
+    {
+      "name": "Save 222 (Infomercial)",
+      "site_id": "222#222",
+      "xmltv_id": "",
+      "strict_key": "save222infomercial"
+    },
+    {
+      "name": "Celebrity Shopping TV",
+      "site_id": "223#239",
+      "xmltv_id": "",
+      "strict_key": "celebrityshoppingtv"
+    },
+    {
+      "name": "AVC (Infomercial)",
+      "site_id": "224#340",
+      "xmltv_id": "AmericasValueChannel.us@SD",
+      "strict_key": "avcinfomercial"
+    },
+    {
+      "name": "HOME TV (225)",
+      "site_id": "225#341",
+      "xmltv_id": "",
+      "strict_key": "hometv225"
+    },
+    {
+      "name": "Shop LC",
+      "site_id": "226#226",
+      "xmltv_id": "ShopLC.us@SD",
+      "strict_key": "shoplc"
+    },
+    {
+      "name": "MALL (Infomercial)",
+      "site_id": "227#227",
+      "xmltv_id": "",
+      "strict_key": "mallinfomercial"
+    },
+    {
+      "name": "GEM Shopping Network",
+      "site_id": "228#228",
+      "xmltv_id": "GemShoppingNetwork.us@SD",
+      "strict_key": "gemshoppingnetwork"
+    },
+    {
+      "name": "HGTV",
+      "site_id": "229#229",
+      "xmltv_id": "HGTV.us@East",
+      "strict_key": "hgtv"
+    },
+    {
+      "name": "HGTV HD",
+      "site_id": "229#8244",
+      "xmltv_id": "HGTV.us@East",
+      "strict_key": "hgtvhd"
+    },
+    {
+      "name": "Magnolia Network",
+      "site_id": "230#230",
+      "xmltv_id": "MagnoliaNetwork.us@East",
+      "strict_key": "magnolianetwork"
+    },
+    {
+      "name": "Magnolia Network HD",
+      "site_id": "230#8086",
+      "xmltv_id": "MagnoliaNetwork.us@East",
+      "strict_key": "magnolianetworkhd"
+    },
+    {
+      "name": "Food Network",
+      "site_id": "231#231",
+      "xmltv_id": "FoodNetwork.us@East",
+      "strict_key": "foodnetwork"
+    },
+    {
+      "name": "Food Network HD",
+      "site_id": "231#8278",
+      "xmltv_id": "FoodNetwork.us@East",
+      "strict_key": "foodnetworkhd"
+    },
+    {
+      "name": "Cooking Channel",
+      "site_id": "232#232",
+      "xmltv_id": "CookingChannel.us@SD",
+      "strict_key": "cookingchannel"
+    },
+    {
+      "name": "Cooking Channel HD",
+      "site_id": "232#6216",
+      "xmltv_id": "CookingChannel.us@SD",
+      "strict_key": "cookingchannelhd"
+    },
+    {
+      "name": "Game Show Network",
+      "site_id": "233#309",
+      "xmltv_id": "GameShowNetwork.us@East",
+      "strict_key": "gameshownetwork"
+    },
+    {
+      "name": "Game Show Network HD",
+      "site_id": "233#8987",
+      "xmltv_id": "GameShowNetwork.us@East",
+      "strict_key": "gameshownetworkhd"
+    },
+    {
+      "name": "WOW TV 234",
+      "site_id": "234#234",
+      "xmltv_id": "",
+      "strict_key": "wowtv234"
+    },
+    {
+      "name": "Tastemade",
+      "site_id": "235#484",
+      "xmltv_id": "Tastemade.us@US",
+      "strict_key": "tastemade"
+    },
+    {
+      "name": "E!",
+      "site_id": "236#236",
+      "xmltv_id": "E.us@East",
+      "strict_key": "e"
+    },
+    {
+      "name": "E! HD",
+      "site_id": "236#8179",
+      "xmltv_id": "E.us@East",
+      "strict_key": "ehd"
+    },
+    {
+      "name": "Bravo",
+      "site_id": "237#273",
+      "xmltv_id": "Bravo.us@East",
+      "strict_key": "bravo"
+    },
+    {
+      "name": "Bravo HD",
+      "site_id": "237#8258",
+      "xmltv_id": "Bravo.us@East",
+      "strict_key": "bravohd"
+    },
+    {
+      "name": "ReelzChannel",
+      "site_id": "238#225",
+      "xmltv_id": "Reelz.us@SD",
+      "strict_key": "reelzchannel"
+    },
+    {
+      "name": "ReelzChannel HD",
+      "site_id": "238#3507",
+      "xmltv_id": "Reelz.us@SD",
+      "strict_key": "reelzchannelhd"
+    },
+    {
+      "name": "SundanceTV",
+      "site_id": "239#549",
+      "xmltv_id": "SundanceTV.us@East",
+      "strict_key": "sundancetv"
+    },
+    {
+      "name": "SundanceTV HD",
+      "site_id": "239#2057",
+      "xmltv_id": "SundanceTV.us@East",
+      "strict_key": "sundancetvhd"
+    },
+    {
+      "name": "Home Shopping Network",
+      "site_id": "240#240",
+      "xmltv_id": "HSN.us@East",
+      "strict_key": "homeshoppingnetwork"
+    },
+    {
+      "name": "Home Shopping Network HD",
+      "site_id": "240#6133",
+      "xmltv_id": "HSN.us@East",
+      "strict_key": "homeshoppingnetworkhd"
+    },
+    {
+      "name": "Paramount Network",
+      "site_id": "241#325",
+      "xmltv_id": "ParamountNetwork.us@East",
+      "strict_key": "paramountnetwork"
+    },
+    {
+      "name": "Paramount Network HD",
+      "site_id": "241#8245",
+      "xmltv_id": "ParamountNetwork.us@East",
+      "strict_key": "paramountnetworkhd"
+    },
+    {
+      "name": "USA Network",
+      "site_id": "242#242",
+      "xmltv_id": "USANetwork.us@East",
+      "strict_key": "usanetwork"
+    },
+    {
+      "name": "USA Network HD",
+      "site_id": "242#8273",
+      "xmltv_id": "USANetwork.us@East",
+      "strict_key": "usanetworkhd"
+    },
+    {
+      "name": "XPLOR",
+      "site_id": "243#243",
+      "xmltv_id": "",
+      "strict_key": "xplor"
+    },
+    {
+      "name": "SYFY",
+      "site_id": "244#244",
+      "xmltv_id": "Syfy.us@East",
+      "strict_key": "syfy"
+    },
+    {
+      "name": "SYFYHD",
+      "site_id": "244#8268",
+      "xmltv_id": "Syfy.us@East",
+      "strict_key": "syfyhd"
+    },
+    {
+      "name": "TNT",
+      "site_id": "245#245",
+      "xmltv_id": "TNT.us@East",
+      "strict_key": "tnt"
+    },
+    {
+      "name": "TNT HD",
+      "site_id": "245#1966",
+      "xmltv_id": "TNT.us@East",
+      "strict_key": "tnthd"
+    },
+    {
+      "name": "TNT West HD",
+      "site_id": "245#2602",
+      "xmltv_id": "TNT.us@West",
+      "strict_key": "tntwesthd"
+    },
+    {
+      "name": "truTV",
+      "site_id": "246#203",
+      "xmltv_id": "truTV.us@East",
+      "strict_key": "trutv"
+    },
+    {
+      "name": "truTV HD",
+      "site_id": "246#1363",
+      "xmltv_id": "truTV.us@East",
+      "strict_key": "trutvhd"
+    },
+    {
+      "name": "TBS",
+      "site_id": "247#247",
+      "xmltv_id": "TBS.us@East",
+      "strict_key": "tbs"
+    },
+    {
+      "name": "TBS West HD",
+      "site_id": "247#2603",
+      "xmltv_id": "TBS.us@West",
+      "strict_key": "tbswesthd"
+    },
+    {
+      "name": "TBS HD",
+      "site_id": "247#8254",
+      "xmltv_id": "TBS.us@East",
+      "strict_key": "tbshd"
+    },
+    {
+      "name": "FX",
+      "site_id": "248#248",
+      "xmltv_id": "FX.us@East",
+      "strict_key": "fx"
+    },
+    {
+      "name": "FX HD",
+      "site_id": "248#8208",
+      "xmltv_id": "FX.us@East",
+      "strict_key": "fxhd"
+    },
+    {
+      "name": "Comedy Central",
+      "site_id": "249#249",
+      "xmltv_id": "ComedyCentral.us@East",
+      "strict_key": "comedycentral"
+    },
+    {
+      "name": "Comedy Central West HD",
+      "site_id": "249#2598",
+      "xmltv_id": "ComedyCentral.us@West",
+      "strict_key": "comedycentralwesthd"
+    },
+    {
+      "name": "Comedy Central HD",
+      "site_id": "249#3035",
+      "xmltv_id": "ComedyCentral.us@East",
+      "strict_key": "comedycentralhd"
+    },
+    {
+      "name": "SECRET TV (250)",
+      "site_id": "250#3094",
+      "xmltv_id": "",
+      "strict_key": "secrettv250"
+    },
+    {
+      "name": "Oxygen True Crime",
+      "site_id": "251#251",
+      "xmltv_id": "Oxygen.us@East",
+      "strict_key": "oxygentruecrime"
+    },
+    {
+      "name": "Oxygen True Crime HD",
+      "site_id": "251#275",
+      "xmltv_id": "Oxygen.us@East",
+      "strict_key": "oxygentruecrimehd"
+    },
+    {
+      "name": "Lifetime",
+      "site_id": "252#252",
+      "xmltv_id": "Lifetime.us@East",
+      "strict_key": "lifetime"
+    },
+    {
+      "name": "Lifetime HD",
+      "site_id": "252#3780",
+      "xmltv_id": "Lifetime.us@East",
+      "strict_key": "lifetimehd"
+    },
+    {
+      "name": "LMN",
+      "site_id": "253#253",
+      "xmltv_id": "LifetimeMovies.us@East",
+      "strict_key": "lmn"
+    },
+    {
+      "name": "LMN HD",
+      "site_id": "253#6217",
+      "xmltv_id": "LifetimeMovies.us@East",
+      "strict_key": "lmnhd"
+    },
+    {
+      "name": "AMC",
+      "site_id": "254#254",
+      "xmltv_id": "AMC.us@East",
+      "strict_key": "amc"
+    },
+    {
+      "name": "AMC HD",
+      "site_id": "254#4217",
+      "xmltv_id": "AMC.us@East",
+      "strict_key": "amchd"
+    },
+    {
+      "name": "XTRA Network",
+      "site_id": "255#4190",
+      "xmltv_id": "",
+      "strict_key": "xtranetwork"
+    },
+    {
+      "name": "TCM",
+      "site_id": "256#256",
+      "xmltv_id": "TCM.us@East",
+      "strict_key": "tcm"
+    },
+    {
+      "name": "TCM HD",
+      "site_id": "256#4316",
+      "xmltv_id": "TCM.us@East",
+      "strict_key": "tcmhd"
+    },
+    {
+      "name": "FX Movie",
+      "site_id": "258#258",
+      "xmltv_id": "FXMovieChannel.us@SD",
+      "strict_key": "fxmovie"
+    },
+    {
+      "name": "FX Movie Channel HD",
+      "site_id": "258#310",
+      "xmltv_id": "FXMovieChannel.us@SD",
+      "strict_key": "fxmoviechannelhd"
+    },
+    {
+      "name": "FXX",
+      "site_id": "259#2619",
+      "xmltv_id": "FXX.us@East",
+      "strict_key": "fxx"
+    },
+    {
+      "name": "FXX HD",
+      "site_id": "259#8138",
+      "xmltv_id": "FXX.us@East",
+      "strict_key": "fxxhd"
+    },
+    {
+      "name": "WE tv",
+      "site_id": "260#260",
+      "xmltv_id": "WeTV.us@East",
+      "strict_key": "wetv"
+    },
+    {
+      "name": "WE tv HD",
+      "site_id": "260#2056",
+      "xmltv_id": "WeTV.us@East",
+      "strict_key": "wetvhd"
+    },
+    {
+      "name": "Discovery Life",
+      "site_id": "261#368",
+      "xmltv_id": "DiscoveryLife.us@SD",
+      "strict_key": "discoverylife"
+    },
+    {
+      "name": "VISION TV Channel 262",
+      "site_id": "262#262",
+      "xmltv_id": "",
+      "strict_key": "visiontvchannel262"
+    },
+    {
+      "name": "XPLOR (262-1)",
+      "site_id": "262#8134",
+      "xmltv_id": "",
+      "strict_key": "xplor2621"
+    },
+    {
+      "name": "Get It Infomercial",
+      "site_id": "263#347",
+      "xmltv_id": "",
+      "strict_key": "getitinfomercial"
+    },
+    {
+      "name": "BBC America",
+      "site_id": "264#264",
+      "xmltv_id": "BBCAmerica.us@East",
+      "strict_key": "bbcamerica"
+    },
+    {
+      "name": "BBC America HD",
+      "site_id": "264#6053",
+      "xmltv_id": "BBCAmerica.us@East",
+      "strict_key": "bbcamericahd"
+    },
+    {
+      "name": "A&E",
+      "site_id": "265#265",
+      "xmltv_id": "AE.us@East",
+      "strict_key": "aande"
+    },
+    {
+      "name": "A&E HD",
+      "site_id": "265#8223",
+      "xmltv_id": "AE.us@East",
+      "strict_key": "aandehd"
+    },
+    {
+      "name": "FYI",
+      "site_id": "266#266",
+      "xmltv_id": "FYI.us@East",
+      "strict_key": "fyi"
+    },
+    {
+      "name": "FYI HD",
+      "site_id": "266#8396",
+      "xmltv_id": "FYI.us@East",
+      "strict_key": "fyihd"
+    },
+    {
+      "name": "BEST Channel 268",
+      "site_id": "268#268",
+      "xmltv_id": "",
+      "strict_key": "bestchannel268"
+    },
+    {
+      "name": "History",
+      "site_id": "269#269",
+      "xmltv_id": "History.us@East",
+      "strict_key": "history"
+    },
+    {
+      "name": "History HD",
+      "site_id": "269#8233",
+      "xmltv_id": "History.us@East",
+      "strict_key": "historyhd"
+    },
+    {
+      "name": "IDEA Channel 270",
+      "site_id": "270#261",
+      "xmltv_id": "",
+      "strict_key": "ideachannel270"
+    },
+    {
+      "name": "VICE",
+      "site_id": "271#271",
+      "xmltv_id": "VICETV.us@SD",
+      "strict_key": "vice"
+    },
+    {
+      "name": "VICE HD",
+      "site_id": "271#6215",
+      "xmltv_id": "VICETV.us@SD",
+      "strict_key": "vicehd"
+    },
+    {
+      "name": "Logo",
+      "site_id": "272#263",
+      "xmltv_id": "Logo.us@East",
+      "strict_key": "logo"
+    },
+    {
+      "name": "POP",
+      "site_id": "273#224",
+      "xmltv_id": "Pop.us@East",
+      "strict_key": "pop"
+    },
+    {
+      "name": "POP HD",
+      "site_id": "273#572",
+      "xmltv_id": "Pop.us@East",
+      "strict_key": "pophd"
+    },
+    {
+      "name": "Ovation",
+      "site_id": "274#274",
+      "xmltv_id": "Ovation.us@SD",
+      "strict_key": "ovation"
+    },
+    {
+      "name": "Ovation HD",
+      "site_id": "274#4638",
+      "xmltv_id": "Ovation.us@SD",
+      "strict_key": "ovationhd"
+    },
+    {
+      "name": "QVC",
+      "site_id": "275#317",
+      "xmltv_id": "QVC.us@SD",
+      "strict_key": "qvc"
+    },
+    {
+      "name": "QVC HD",
+      "site_id": "275#8033",
+      "xmltv_id": "QVC.us@SD",
+      "strict_key": "qvchd"
+    },
+    {
+      "name": "National Geographic",
+      "site_id": "276#276",
+      "xmltv_id": "NationalGeographic.us@East",
+      "strict_key": "nationalgeographic"
+    },
+    {
+      "name": "National Geographic HD",
+      "site_id": "276#8215",
+      "xmltv_id": "NationalGeographic.us@East",
+      "strict_key": "nationalgeographichd"
+    },
+    {
+      "name": "Travel Channel",
+      "site_id": "277#233",
+      "xmltv_id": "TravelChannel.us@East",
+      "strict_key": "travelchannel"
+    },
+    {
+      "name": "Travel Channel HD",
+      "site_id": "277#3529",
+      "xmltv_id": "TravelChannel.us@East",
+      "strict_key": "travelchannelhd"
+    },
+    {
+      "name": "Discovery",
+      "site_id": "278#278",
+      "xmltv_id": "DiscoveryChannel.us@East",
+      "strict_key": "discovery"
+    },
+    {
+      "name": "Discovery HD",
+      "site_id": "278#8238",
+      "xmltv_id": "DiscoveryChannel.us@East",
+      "strict_key": "discoveryhd"
+    },
+    {
+      "name": "OWN",
+      "site_id": "279#3692",
+      "xmltv_id": "OWN.us@East",
+      "strict_key": "own"
+    },
+    {
+      "name": "OWN HD",
+      "site_id": "279#8851",
+      "xmltv_id": "",
+      "strict_key": "ownhd"
+    },
+    {
+      "name": "OWN West",
+      "site_id": "279#8854",
+      "xmltv_id": "OWN.us@West",
+      "strict_key": "ownwest"
+    },
+    {
+      "name": "TLC",
+      "site_id": "280#280",
+      "xmltv_id": "TLC.us@East",
+      "strict_key": "tlc"
+    },
+    {
+      "name": "TLC HD",
+      "site_id": "280#8262",
+      "xmltv_id": "TLC.us@East",
+      "strict_key": "tlchd"
+    },
+    {
+      "name": "MotorTrend HD",
+      "site_id": "281#3505",
+      "xmltv_id": "",
+      "strict_key": "motortrendhd"
+    },
+    {
+      "name": "Animal Planet",
+      "site_id": "282#282",
+      "xmltv_id": "AnimalPlanet.us@East",
+      "strict_key": "animalplanet"
+    },
+    {
+      "name": "Animal Planet HD",
+      "site_id": "282#8205",
+      "xmltv_id": "AnimalPlanet.us@East",
+      "strict_key": "animalplanethd"
+    },
+    {
+      "name": "Nat Geo WILD",
+      "site_id": "283#3098",
+      "xmltv_id": "NationalGeographicWild.us@East",
+      "strict_key": "natgeowild"
+    },
+    {
+      "name": "Nat Geo Wild HD",
+      "site_id": "283#6054",
+      "xmltv_id": "NationalGeographicWild.us@East",
+      "strict_key": "natgeowildhd"
+    },
+    {
+      "name": "Science",
+      "site_id": "284#284",
+      "xmltv_id": "Science.us@East",
+      "strict_key": "science"
+    },
+    {
+      "name": "Science HD",
+      "site_id": "284#8232",
+      "xmltv_id": "Science.us@East",
+      "strict_key": "sciencehd"
+    },
+    {
+      "name": "Investigation Discovery",
+      "site_id": "285#285",
+      "xmltv_id": "InvestigationDiscovery.us@East",
+      "strict_key": "investigationdiscovery"
+    },
+    {
+      "name": "Investigation Discovery HD",
+      "site_id": "285#6212",
+      "xmltv_id": "InvestigationDiscovery.us@East",
+      "strict_key": "investigationdiscoveryhd"
+    },
+    {
+      "name": "Destination America",
+      "site_id": "286#286",
+      "xmltv_id": "DestinationAmerica.us@SD",
+      "strict_key": "destinationamerica"
+    },
+    {
+      "name": "Destination America HD",
+      "site_id": "286#4230",
+      "xmltv_id": "DestinationAmerica.us@SD",
+      "strict_key": "destinationamericahd"
+    },
+    {
+      "name": "American Heroes Channel",
+      "site_id": "287#287",
+      "xmltv_id": "AmericanHeroesChannel.us@SD",
+      "strict_key": "americanheroeschannel"
+    },
+    {
+      "name": "American Heroes HD",
+      "site_id": "287#288",
+      "xmltv_id": "AmericanHeroesChannel.us@SD",
+      "strict_key": "americanheroeshd"
+    },
+    {
+      "name": "PBS Kids",
+      "site_id": "288#2363",
+      "xmltv_id": "PBSKids.us@SD",
+      "strict_key": "pbskids"
+    },
+    {
+      "name": "Disney Junior",
+      "site_id": "289#289",
+      "xmltv_id": "DisneyJunior.us@East",
+      "strict_key": "disneyjunior"
+    },
+    {
+      "name": "Disney Junior HD",
+      "site_id": "289#6055",
+      "xmltv_id": "DisneyJunior.us@East",
+      "strict_key": "disneyjuniorhd"
+    },
+    {
+      "name": "Disney Channel (East)",
+      "site_id": "290#290",
+      "xmltv_id": "DisneyChannel.us@East",
+      "strict_key": "disneychanneleast"
+    },
+    {
+      "name": "Disney Channel HD",
+      "site_id": "290#8398",
+      "xmltv_id": "DisneyChannel.us@East",
+      "strict_key": "disneychannelhd"
+    },
+    {
+      "name": "Disney Channel (West)",
+      "site_id": "291#291",
+      "xmltv_id": "DisneyChannel.us@West",
+      "strict_key": "disneychannelwest"
+    },
+    {
+      "name": "Disney XD",
+      "site_id": "292#292",
+      "xmltv_id": "DisneyXD.us@East",
+      "strict_key": "disneyxd"
+    },
+    {
+      "name": "Disney XD HD",
+      "site_id": "292#8397",
+      "xmltv_id": "DisneyXD.us@East",
+      "strict_key": "disneyxdhd"
+    },
+    {
+      "name": "BabyFirst",
+      "site_id": "293#293",
+      "xmltv_id": "BabyFirst.us@US",
+      "strict_key": "babyfirst"
+    },
+    {
+      "name": "Discovery Family Channel HD",
+      "site_id": "294#283",
+      "xmltv_id": "DiscoveryFamily.us@SD",
+      "strict_key": "discoveryfamilychannelhd"
+    },
+    {
+      "name": "Discovery Family Channel",
+      "site_id": "294#294",
+      "xmltv_id": "DiscoveryFamily.us@SD",
+      "strict_key": "discoveryfamilychannel"
+    },
+    {
+      "name": "Universal Kids",
+      "site_id": "295#295",
+      "xmltv_id": "UniversalKids.us@East",
+      "strict_key": "universalkids"
+    },
+    {
+      "name": "Universal Kids HD",
+      "site_id": "295#3501",
+      "xmltv_id": "UniversalKids.us@East",
+      "strict_key": "universalkidshd"
+    },
+    {
+      "name": "Cartoon Network",
+      "site_id": "296#296",
+      "xmltv_id": "CartoonNetwork.us@East",
+      "strict_key": "cartoonnetwork"
+    },
+    {
+      "name": "Cartoon Network HD",
+      "site_id": "296#8255",
+      "xmltv_id": "CartoonNetwork.us@East",
+      "strict_key": "cartoonnetworkhd"
+    },
+    {
+      "name": "Cartoon Network West",
+      "site_id": "297#8193",
+      "xmltv_id": "CartoonNetwork.us@West",
+      "strict_key": "cartoonnetworkwest"
+    },
+    {
+      "name": "Boomerang",
+      "site_id": "298#297",
+      "xmltv_id": "Boomerang.us@SD",
+      "strict_key": "boomerang"
+    },
+    {
+      "name": "Nickelodeon East",
+      "site_id": "299#299",
+      "xmltv_id": "Nickelodeon.us@East",
+      "strict_key": "nickelodeoneast"
+    },
+    {
+      "name": "Nickelodeon East HD",
+      "site_id": "299#8274",
+      "xmltv_id": "Nickelodeon.us@East",
+      "strict_key": "nickelodeoneasthd"
+    },
+    {
+      "name": "Nickelodeon West",
+      "site_id": "300#300",
+      "xmltv_id": "Nickelodeon.us@West",
+      "strict_key": "nickelodeonwest"
+    },
+    {
+      "name": "Nick Jr.",
+      "site_id": "301#298",
+      "xmltv_id": "NickJr.us@East",
+      "strict_key": "nickjr"
+    },
+    {
+      "name": "Nick Jr. HD",
+      "site_id": "301#3621",
+      "xmltv_id": "NickJr.us@East",
+      "strict_key": "nickjrhd"
+    },
+    {
+      "name": "Nicktoons",
+      "site_id": "302#302",
+      "xmltv_id": "Nicktoons.us@East",
+      "strict_key": "nicktoons"
+    },
+    {
+      "name": "TeenNick",
+      "site_id": "303#3504",
+      "xmltv_id": "TeenNick.us@East",
+      "strict_key": "teennick"
+    },
+    {
+      "name": "TV Land",
+      "site_id": "304#301",
+      "xmltv_id": "TVLand.us@East",
+      "strict_key": "tvland"
+    },
+    {
+      "name": "TV Land HD",
+      "site_id": "304#6213",
+      "xmltv_id": "TVLand.us@East",
+      "strict_key": "tvlandhd"
+    },
+    {
+      "name": "ION Television East HD",
+      "site_id": "305#6056",
+      "xmltv_id": "IONTV.us@East",
+      "strict_key": "iontelevisioneasthd"
+    },
+    {
+      "name": "NewsNation",
+      "site_id": "307#307",
+      "xmltv_id": "",
+      "strict_key": "newsnation"
+    },
+    {
+      "name": "NewsNation HD",
+      "site_id": "307#3528",
+      "xmltv_id": "",
+      "strict_key": "newsnationhd"
+    },
+    {
+      "name": "CRAVE",
+      "site_id": "308#343",
+      "xmltv_id": "",
+      "strict_key": "crave"
+    },
+    {
+      "name": "SALE Network",
+      "site_id": "309#328",
+      "xmltv_id": "",
+      "strict_key": "salenetwork"
+    },
+    {
+      "name": "HSN2",
+      "site_id": "310#4069",
+      "xmltv_id": "",
+      "strict_key": "hsn2"
+    },
+    {
+      "name": "Freeform",
+      "site_id": "311#311",
+      "xmltv_id": "Freeform.us@East",
+      "strict_key": "freeform"
+    },
+    {
+      "name": "Freeform HD",
+      "site_id": "311#4211",
+      "xmltv_id": "Freeform.us@East",
+      "strict_key": "freeformhd"
+    },
+    {
+      "name": "Hallmark",
+      "site_id": "312#312",
+      "xmltv_id": "HallmarkChannel.us@East",
+      "strict_key": "hallmark"
+    },
+    {
+      "name": "Hallmark Channel HD",
+      "site_id": "312#3771",
+      "xmltv_id": "HallmarkChannel.us@East",
+      "strict_key": "hallmarkchannelhd"
+    },
+    {
+      "name": "Jewelry Television",
+      "site_id": "313#367",
+      "xmltv_id": "",
+      "strict_key": "jewelrytelevision"
+    },
+    {
+      "name": "VALU",
+      "site_id": "314#8067",
+      "xmltv_id": "",
+      "strict_key": "valu"
+    },
+    {
+      "name": "QVC2",
+      "site_id": "315#4060",
+      "xmltv_id": "QVC2.us@SD",
+      "strict_key": "qvc2"
+    },
+    {
+      "name": "Shop HQ",
+      "site_id": "316#1371",
+      "xmltv_id": "ShopHQ.us@SD",
+      "strict_key": "shophq"
+    },
+    {
+      "name": "QVC Channel 317",
+      "site_id": "317#345",
+      "xmltv_id": "QVC.us@SD",
+      "strict_key": "qvcchannel317"
+    },
+    {
+      "name": "QVC HD (317)",
+      "site_id": "317#8019",
+      "xmltv_id": "QVC.us@SD",
+      "strict_key": "qvchd317"
+    },
+    {
+      "name": "QVC3",
+      "site_id": "318#277",
+      "xmltv_id": "QVC3.us@SD",
+      "strict_key": "qvc3"
+    },
+    {
+      "name": "NEW TV (319)",
+      "site_id": "319#319",
+      "xmltv_id": "",
+      "strict_key": "newtv319"
+    },
+    {
+      "name": "Scientology Network",
+      "site_id": "320#323",
+      "xmltv_id": "ScientologyNetwork.us@SD",
+      "strict_key": "scientologynetwork"
+    },
+    {
+      "name": "NHK World News",
+      "site_id": "322#517",
+      "xmltv_id": "",
+      "strict_key": "nhkworldnews"
+    },
+    {
+      "name": "Go4IT",
+      "site_id": "323#110",
+      "xmltv_id": "",
+      "strict_key": "go4it"
+    },
+    {
+      "name": "Family Entertainment Television",
+      "site_id": "323#1983",
+      "xmltv_id": "FamilyEntertainmentTV.us@SD",
+      "strict_key": "familyentertainmenttelevision"
+    },
+    {
+      "name": "RENEW TV (324)",
+      "site_id": "324#324",
+      "xmltv_id": "",
+      "strict_key": "renewtv324"
+    },
+    {
+      "name": "SECRET TV",
+      "site_id": "324#3095",
+      "xmltv_id": "",
+      "strict_key": "secrettv"
+    },
+    {
+      "name": "FRESH",
+      "site_id": "325#1307",
+      "xmltv_id": "",
+      "strict_key": "fresh"
+    },
+    {
+      "name": "Jewish Life TV",
+      "site_id": "325#8075",
+      "xmltv_id": "",
+      "strict_key": "jewishlifetv"
+    },
+    {
+      "name": "Great American Family",
+      "site_id": "326#326",
+      "xmltv_id": "GreatAmericanFamily.us@SD",
+      "strict_key": "greatamericanfamily"
+    },
+    {
+      "name": "Great American Family HD",
+      "site_id": "326#573",
+      "xmltv_id": "GreatAmericanFamily.us@SD",
+      "strict_key": "greatamericanfamilyhd"
+    },
+    {
+      "name": "CMT",
+      "site_id": "327#327",
+      "xmltv_id": "CMT.us@East",
+      "strict_key": "cmt"
+    },
+    {
+      "name": "CMT HD",
+      "site_id": "327#8395",
+      "xmltv_id": "CMT.us@East",
+      "strict_key": "cmthd"
+    },
+    {
+      "name": "TV One HD",
+      "site_id": "328#1512",
+      "xmltv_id": "TVOne.us@SD",
+      "strict_key": "tvonehd"
+    },
+    {
+      "name": "BET",
+      "site_id": "329#329",
+      "xmltv_id": "BET.us@East",
+      "strict_key": "bet"
+    },
+    {
+      "name": "BET HD",
+      "site_id": "329#1917",
+      "xmltv_id": "BET.us@East",
+      "strict_key": "bethd"
+    },
+    {
+      "name": "BET West HD",
+      "site_id": "329#2599",
+      "xmltv_id": "BET.us@West",
+      "strict_key": "betwesthd"
+    },
+    {
+      "name": "BET Her",
+      "site_id": "330#330",
+      "xmltv_id": "BETHer.us@East",
+      "strict_key": "bether"
+    },
+    {
+      "name": "MTV",
+      "site_id": "331#331",
+      "xmltv_id": "MTV.us@East",
+      "strict_key": "mtv"
+    },
+    {
+      "name": "MTV West HD",
+      "site_id": "331#2600",
+      "xmltv_id": "",
+      "strict_key": "mtvwesthd"
+    },
+    {
+      "name": "MTV HD",
+      "site_id": "331#8218",
+      "xmltv_id": "",
+      "strict_key": "mtvhd"
+    },
+    {
+      "name": "MTV2",
+      "site_id": "332#333",
+      "xmltv_id": "MTV2.us@East",
+      "strict_key": "mtv2"
+    },
+    {
+      "name": "MTV2 HD",
+      "site_id": "332#2455",
+      "xmltv_id": "",
+      "strict_key": "mtv2hd"
+    },
+    {
+      "name": "IFC",
+      "site_id": "333#550",
+      "xmltv_id": "IFC.us@East",
+      "strict_key": "ifc"
+    },
+    {
+      "name": "IFC HD",
+      "site_id": "333#6214",
+      "xmltv_id": "IFC.us@East",
+      "strict_key": "ifchd"
+    },
+    {
+      "name": "VH1",
+      "site_id": "335#335",
+      "xmltv_id": "VH1.us@East",
+      "strict_key": "vh1"
+    },
+    {
+      "name": "VH1 HD",
+      "site_id": "335#8279",
+      "xmltv_id": "VH1.us@East",
+      "strict_key": "vh1hd"
+    },
+    {
+      "name": "MTV Classic",
+      "site_id": "336#337",
+      "xmltv_id": "MTVClassic.us@East",
+      "strict_key": "mtvclassic"
+    },
+    {
+      "name": "SEEK HD",
+      "site_id": "337#102",
+      "xmltv_id": "",
+      "strict_key": "seekhd"
+    },
+    {
+      "name": "UPTV",
+      "site_id": "338#3511",
+      "xmltv_id": "UpTV.us@SD",
+      "strict_key": "uptv"
+    },
+    {
+      "name": "Fuse HD",
+      "site_id": "339#365",
+      "xmltv_id": "Fuse.us@East",
+      "strict_key": "fusehd"
+    },
+    {
+      "name": "AXS TV HD",
+      "site_id": "340#4209",
+      "xmltv_id": "AXSTV.us@SD",
+      "strict_key": "axstvhd"
+    },
+    {
+      "name": "Cleo TV",
+      "site_id": "341#4469",
+      "xmltv_id": "CleoTV.us@SD",
+      "strict_key": "cleotv"
+    },
+    {
+      "name": "theGrio",
+      "site_id": "342#6537",
+      "xmltv_id": "",
+      "strict_key": "thegrio"
+    },
+    {
+      "name": "i24 News",
+      "site_id": "343#499",
+      "xmltv_id": "",
+      "strict_key": "i24news"
+    },
+    {
+      "name": "Son Life Broadcasting HD",
+      "site_id": "344#344",
+      "xmltv_id": "SBNTV.us@SD",
+      "strict_key": "sonlifebroadcastinghd"
+    },
+    {
+      "name": "RFD HD TV",
+      "site_id": "345#551",
+      "xmltv_id": "",
+      "strict_key": "rfdhdtv"
+    },
+    {
+      "name": "BBC World News HD",
+      "site_id": "346#2063",
+      "xmltv_id": "BBCNews.uk@NorthAmerica",
+      "strict_key": "bbcworldnewshd"
+    },
+    {
+      "name": "Free Speech TV",
+      "site_id": "348#3776",
+      "xmltv_id": "FreeSpeechTV.us@SD",
+      "strict_key": "freespeechtv"
+    },
+    {
+      "name": "Newsmax TV HD",
+      "site_id": "349#808",
+      "xmltv_id": "NewsmaxTV.us@SD",
+      "strict_key": "newsmaxtvhd"
+    },
+    {
+      "name": "Newsmax TV",
+      "site_id": "349#2282",
+      "xmltv_id": "NewsmaxTV.us@SD",
+      "strict_key": "newsmaxtv"
+    },
+    {
+      "name": "CSPAN",
+      "site_id": "350#350",
+      "xmltv_id": "CSPAN.us@SD",
+      "strict_key": "cspan"
+    },
+    {
+      "name": "CSPAN 2",
+      "site_id": "351#351",
+      "xmltv_id": "CSPAN2.us@SD",
+      "strict_key": "cspan2"
+    },
+    {
+      "name": "NASA TV",
+      "site_id": "352#223",
+      "xmltv_id": "NASATVPublic.us@SD",
+      "strict_key": "nasatv"
+    },
+    {
+      "name": "Bloomberg TV",
+      "site_id": "353#353",
+      "xmltv_id": "BloombergTV.us@US",
+      "strict_key": "bloombergtv"
+    },
+    {
+      "name": "Bloomberg TV HD",
+      "site_id": "353#8609",
+      "xmltv_id": "BloombergTV.us@US",
+      "strict_key": "bloombergtvhd"
+    },
+    {
+      "name": "Cheddar News",
+      "site_id": "354#586",
+      "xmltv_id": "CheddarNews.us@SD",
+      "strict_key": "cheddarnews"
+    },
+    {
+      "name": "CNBC",
+      "site_id": "355#355",
+      "xmltv_id": "CNBC.us@SD",
+      "strict_key": "cnbc"
+    },
+    {
+      "name": "CNBC HD",
+      "site_id": "355#8277",
+      "xmltv_id": "CNBC.us@SD",
+      "strict_key": "cnbchd"
+    },
+    {
+      "name": "MSNBC",
+      "site_id": "356#356",
+      "xmltv_id": "MSNBC.us@SD",
+      "strict_key": "msnbc"
+    },
+    {
+      "name": "MSNBC HD",
+      "site_id": "356#3526",
+      "xmltv_id": "",
+      "strict_key": "msnbchd"
+    },
+    {
+      "name": "CNBC World",
+      "site_id": "357#357",
+      "xmltv_id": "CNBCWorld.us@SD",
+      "strict_key": "cnbcworld"
+    },
+    {
+      "name": "CNNi",
+      "site_id": "358#2601",
+      "xmltv_id": "",
+      "strict_key": "cnni"
+    },
+    {
+      "name": "Fox Business Network",
+      "site_id": "359#3142",
+      "xmltv_id": "FoxBusinessNetwork.us@SD",
+      "strict_key": "foxbusinessnetwork"
+    },
+    {
+      "name": "Fox Business Network HD",
+      "site_id": "359#8394",
+      "xmltv_id": "FoxBusinessNetwork.us@SD",
+      "strict_key": "foxbusinessnetworkhd"
+    },
+    {
+      "name": "FOX News Channel",
+      "site_id": "360#360",
+      "xmltv_id": "FoxNewsChannel.us@SD",
+      "strict_key": "foxnewschannel"
+    },
+    {
+      "name": "FOX News Channel HD",
+      "site_id": "360#3474",
+      "xmltv_id": "FoxNewsChannel.us@SD",
+      "strict_key": "foxnewschannelhd"
+    },
+    {
+      "name": "AccuWeather HD",
+      "site_id": "361#6067",
+      "xmltv_id": "AccuWeatherNOW.us@SD",
+      "strict_key": "accuweatherhd"
+    },
+    {
+      "name": "The Weather Channel",
+      "site_id": "362#362",
+      "xmltv_id": "TheWeatherChannel.us@SD",
+      "strict_key": "theweatherchannel"
+    },
+    {
+      "name": "The Weather Channel HD",
+      "site_id": "362#8253",
+      "xmltv_id": "TheWeatherChannel.us@SD",
+      "strict_key": "theweatherchannelhd"
+    },
+    {
+      "name": "GEB America",
+      "site_id": "363#3775",
+      "xmltv_id": "",
+      "strict_key": "gebamerica"
+    },
+    {
+      "name": "INSP HD",
+      "site_id": "364#359",
+      "xmltv_id": "INSP.us@SD",
+      "strict_key": "insphd"
+    },
+    {
+      "name": "INSP",
+      "site_id": "364#364",
+      "xmltv_id": "INSP.us@SD",
+      "strict_key": "insp"
+    },
+    {
+      "name": "God TV",
+      "site_id": "365#1579",
+      "xmltv_id": "GODTV.uk@SD",
+      "strict_key": "godtv"
+    },
+    {
+      "name": "VICTORY",
+      "site_id": "366#306",
+      "xmltv_id": "",
+      "strict_key": "victory"
+    },
+    {
+      "name": "World Harvest Television",
+      "site_id": "367#321",
+      "xmltv_id": "WorldHarvestTV.us@SD",
+      "strict_key": "worldharvesttelevision"
+    },
+    {
+      "name": "Hope Channel",
+      "site_id": "368#8479",
+      "xmltv_id": "HopeChannelNorthAmerica.us@SD",
+      "strict_key": "hopechannel"
+    },
+    {
+      "name": "Daystar",
+      "site_id": "369#369",
+      "xmltv_id": "DaystarTV.us@SD",
+      "strict_key": "daystar"
+    },
+    {
+      "name": "EWTN",
+      "site_id": "370#422",
+      "xmltv_id": "EWTN.us@English",
+      "strict_key": "ewtn"
+    },
+    {
+      "name": "TBN Inspire",
+      "site_id": "371#371",
+      "xmltv_id": "",
+      "strict_key": "tbninspire"
+    },
+    {
+      "name": "Trinity Broadcast Network HD",
+      "site_id": "372#394",
+      "xmltv_id": "",
+      "strict_key": "trinitybroadcastnetworkhd"
+    },
+    {
+      "name": "The WORD Network",
+      "site_id": "373#373",
+      "xmltv_id": "TheWordNetwork.us@SD",
+      "strict_key": "thewordnetwork"
+    },
+    {
+      "name": "BYUtv",
+      "site_id": "374#374",
+      "xmltv_id": "BYUTV.us@SD",
+      "strict_key": "byutv"
+    },
+    {
+      "name": "LinkTV",
+      "site_id": "375#375",
+      "xmltv_id": "LinkTV.us@SD",
+      "strict_key": "linktv"
+    },
+    {
+      "name": "Christian Television Net",
+      "site_id": "376#3144",
+      "xmltv_id": "CTN.us@SD",
+      "strict_key": "christiantelevisionnet"
+    },
+    {
+      "name": "TCT Network",
+      "site_id": "377#377",
+      "xmltv_id": "TCT.us@SD",
+      "strict_key": "tctnetwork"
+    },
+    {
+      "name": "NRB",
+      "site_id": "378#378",
+      "xmltv_id": "NRBTV.us@SD",
+      "strict_key": "nrb"
+    },
+    {
+      "name": "Living Faith Network",
+      "site_id": "379#6071",
+      "xmltv_id": "UniversalLivingFaithNetwork.us@SD",
+      "strict_key": "livingfaithnetwork"
+    },
+    {
+      "name": "IMPACT TV",
+      "site_id": "380#401",
+      "xmltv_id": "ImpactNetwork.us@SD",
+      "strict_key": "impacttv"
+    },
+    {
+      "name": "ASPIRE (HD)",
+      "site_id": "381#4707",
+      "xmltv_id": "Aspire.us@SD",
+      "strict_key": "aspirehd"
+    },
+    {
+      "name": "Comedy TV HD",
+      "site_id": "382#8445",
+      "xmltv_id": "ComedyTV.us@SD",
+      "strict_key": "comedytvhd"
+    },
+    {
+      "name": "Justice Central HD",
+      "site_id": "383#8433",
+      "xmltv_id": "JusticeCentralTV.us@SD",
+      "strict_key": "justicecentralhd"
+    },
+    {
+      "name": "Revolt HD",
+      "site_id": "384#8446",
+      "xmltv_id": "Revolt.us@SD",
+      "strict_key": "revolthd"
+    },
+    {
+      "name": "FM HD",
+      "site_id": "386#8983",
+      "xmltv_id": "",
+      "strict_key": "fmhd"
+    },
+    {
+      "name": "JBS",
+      "site_id": "388#366",
+      "xmltv_id": "JBS.us@SD",
+      "strict_key": "jbs"
+    },
+    {
+      "name": "PBSNET",
+      "site_id": "389#384",
+      "xmltv_id": "PBS.us@East",
+      "strict_key": "pbsnet"
+    },
+    {
+      "name": "WCBS (New York) CBS East",
+      "site_id": "390#380",
+      "xmltv_id": "WCBSDT1.us@SD",
+      "strict_key": "wcbsnewyorkcbseast"
+    },
+    {
+      "name": "WCBS (New York) CBS HD East",
+      "site_id": "390#4240",
+      "xmltv_id": "WCBSDT1.us@SD",
+      "strict_key": "wcbsnewyorkcbshdeast"
+    },
+    {
+      "name": "KCBS (Los Angeles) CBS West",
+      "site_id": "391#381",
+      "xmltv_id": "KCBSDT1.us@SD",
+      "strict_key": "kcbslosangelescbswest"
+    },
+    {
+      "name": "KCBS (Los Angeles) CBS HD West",
+      "site_id": "391#8204",
+      "xmltv_id": "KCBSDT1.us@SD",
+      "strict_key": "kcbslosangelescbshdwest"
+    },
+    {
+      "name": "WNBC (New York) NBC East",
+      "site_id": "392#382",
+      "xmltv_id": "WNBCDT1.us@SD",
+      "strict_key": "wnbcnewyorknbceast"
+    },
+    {
+      "name": "WNBC (New York) NBC HD East",
+      "site_id": "392#4237",
+      "xmltv_id": "WNBCDT1.us@SD",
+      "strict_key": "wnbcnewyorknbchdeast"
+    },
+    {
+      "name": "KNBC (Los Angeles) NBC West",
+      "site_id": "393#383",
+      "xmltv_id": "",
+      "strict_key": "knbclosangelesnbcwest"
+    },
+    {
+      "name": "KNBC (Los Angeles) NBC HD West",
+      "site_id": "393#8209",
+      "xmltv_id": "",
+      "strict_key": "knbclosangelesnbchdwest"
+    },
+    {
+      "name": "CW Plus",
+      "site_id": "394#385",
+      "xmltv_id": "CWPlus.us@East",
+      "strict_key": "cwplus"
+    },
+    {
+      "name": "KTLA CW West",
+      "site_id": "395#8955",
+      "xmltv_id": "KTLADT1.us@SD",
+      "strict_key": "ktlacwwest"
+    },
+    {
+      "name": "WABC (New York) ABC East",
+      "site_id": "396#386",
+      "xmltv_id": "WABCDT1.us@SD",
+      "strict_key": "wabcnewyorkabceast"
+    },
+    {
+      "name": "WABC (New York) ABC HD East",
+      "site_id": "396#4239",
+      "xmltv_id": "WABCDT1.us@SD",
+      "strict_key": "wabcnewyorkabchdeast"
+    },
+    {
+      "name": "KABC (Los Angeles) ABC West",
+      "site_id": "397#387",
+      "xmltv_id": "KABCDT1.us@SD",
+      "strict_key": "kabclosangelesabcwest"
+    },
+    {
+      "name": "KABC (Los Angeles) ABC HD West",
+      "site_id": "397#8210",
+      "xmltv_id": "KABCDT1.us@SD",
+      "strict_key": "kabclosangelesabchdwest"
+    },
+    {
+      "name": "WNYW (New York) FOX East",
+      "site_id": "398#388",
+      "xmltv_id": "WNYWDT1.us@SD",
+      "strict_key": "wnywnewyorkfoxeast"
+    },
+    {
+      "name": "WNYW (New York) FOX HD East",
+      "site_id": "398#4238",
+      "xmltv_id": "WNYWDT1.us@SD",
+      "strict_key": "wnywnewyorkfoxhdeast"
+    },
+    {
+      "name": "KTTV (Los Angeles) FOX West",
+      "site_id": "399#389",
+      "xmltv_id": "KTTVDT1.us@SD",
+      "strict_key": "kttvlosangelesfoxwest"
+    },
+    {
+      "name": "KTTV (Los Angeles) FOX HD West",
+      "site_id": "399#8272",
+      "xmltv_id": "KTTVDT1.us@SD",
+      "strict_key": "kttvlosangelesfoxhdwest"
+    },
+    {
+      "name": "Aqui",
+      "site_id": "401#2543",
+      "xmltv_id": "",
+      "strict_key": "aqui"
+    },
+    {
+      "name": "Univision East",
+      "site_id": "402#402",
+      "xmltv_id": "Univision.us@East",
+      "strict_key": "univisioneast"
+    },
+    {
+      "name": "Univision East HD",
+      "site_id": "402#3247",
+      "xmltv_id": "Univision.us@East",
+      "strict_key": "univisioneasthd"
+    },
+    {
+      "name": "Univision West",
+      "site_id": "403#5539",
+      "xmltv_id": "Univision.us@West",
+      "strict_key": "univisionwest"
+    },
+    {
+      "name": "Galavision",
+      "site_id": "404#404",
+      "xmltv_id": "Galavision.us@East",
+      "strict_key": "galavision"
+    },
+    {
+      "name": "Galavision HD",
+      "site_id": "404#8031",
+      "xmltv_id": "Galavision.us@East",
+      "strict_key": "galavisionhd"
+    },
+    {
+      "name": "megaTV",
+      "site_id": "405#5540",
+      "xmltv_id": "MegaTV.us@SD",
+      "strict_key": "megatv"
+    },
+    {
+      "name": "MegaTV HD",
+      "site_id": "405#8373",
+      "xmltv_id": "MegaTV.us@SD",
+      "strict_key": "megatvhd"
+    },
+    {
+      "name": "Telemundo East",
+      "site_id": "406#405",
+      "xmltv_id": "Telemundo.us@East",
+      "strict_key": "telemundoeast"
+    },
+    {
+      "name": "Telemundo West",
+      "site_id": "407#2545",
+      "xmltv_id": "Telemundo.us@West",
+      "strict_key": "telemundowest"
+    },
+    {
+      "name": "UniMas SD West",
+      "site_id": "408#5003",
+      "xmltv_id": "UniMas.us@West",
+      "strict_key": "unimassdwest"
+    },
+    {
+      "name": "UniMas West HD",
+      "site_id": "408#8030",
+      "xmltv_id": "UniMas.us@West",
+      "strict_key": "unimaswesthd"
+    },
+    {
+      "name": "VePlus",
+      "site_id": "409#6120",
+      "xmltv_id": "Venevision.ve@SD",
+      "strict_key": "veplus"
+    },
+    {
+      "name": "Universo",
+      "site_id": "410#2473",
+      "xmltv_id": "NBCUniverso.us@East",
+      "strict_key": "universo"
+    },
+    {
+      "name": "Universo HD",
+      "site_id": "410#3841",
+      "xmltv_id": "NBCUniverso.us@East",
+      "strict_key": "universohd"
+    },
+    {
+      "name": "Telefe",
+      "site_id": "411#5670",
+      "xmltv_id": "TelefeInternacional.ar@SD",
+      "strict_key": "telefe"
+    },
+    {
+      "name": "Multimedios",
+      "site_id": "412#5442",
+      "xmltv_id": "",
+      "strict_key": "multimedios"
+    },
+    {
+      "name": "Discovery en Espanol",
+      "site_id": "413#2552",
+      "xmltv_id": "DiscoveryenEspanol.us@SD",
+      "strict_key": "discoveryenespanol"
+    },
+    {
+      "name": "WAPA America",
+      "site_id": "414#2828",
+      "xmltv_id": "WAPADT1.pr@SD",
+      "strict_key": "wapaamerica"
+    },
+    {
+      "name": "Videorola",
+      "site_id": "415#4025",
+      "xmltv_id": "VideoRola.mx@SD",
+      "strict_key": "videorola"
+    },
+    {
+      "name": "Nuestra Tele",
+      "site_id": "416#6065",
+      "xmltv_id": "NuestraTeleInternacional.co@SD",
+      "strict_key": "nuestratele"
+    },
+    {
+      "name": "Caracol TV",
+      "site_id": "417#2547",
+      "xmltv_id": "CaracolInternacional.co@SD",
+      "strict_key": "caracoltv"
+    },
+    {
+      "name": "NTN 24",
+      "site_id": "418#5112",
+      "xmltv_id": "NTN24.co@SD",
+      "strict_key": "ntn24"
+    },
+    {
+      "name": "CNN en Espanol",
+      "site_id": "419#2553",
+      "xmltv_id": "CNNenEspanol.us@SD",
+      "strict_key": "cnnenespanol"
+    },
+    {
+      "name": "Atreseries",
+      "site_id": "420#3635",
+      "xmltv_id": "Atreseries.es@SD",
+      "strict_key": "atreseries"
+    },
+    {
+      "name": "Cine Estelar",
+      "site_id": "422#3460",
+      "xmltv_id": "CineEstelar.us@SD",
+      "strict_key": "cineestelar"
+    },
+    {
+      "name": "Cinelatino",
+      "site_id": "423#3800",
+      "xmltv_id": "CineLatino.mx@SD",
+      "strict_key": "cinelatino"
+    },
+    {
+      "name": "Cine Nostalgia",
+      "site_id": "424#2528",
+      "xmltv_id": "CineNostalgia.us@SD",
+      "strict_key": "cinenostalgia"
+    },
+    {
+      "name": "BabyTV",
+      "site_id": "425#1283",
+      "xmltv_id": "BabyTV.uk@UK",
+      "strict_key": "babytv"
+    },
+    {
+      "name": "Starz Encore en Espanol",
+      "site_id": "426#6129",
+      "xmltv_id": "StarzEncoreSpanish.us@East",
+      "strict_key": "starzencoreenespanol"
+    },
+    {
+      "name": "Centroamerica TV",
+      "site_id": "428#3025",
+      "xmltv_id": "CentroamericaTV.us@SD",
+      "strict_key": "centroamericatv"
+    },
+    {
+      "name": "TeleCentro",
+      "site_id": "429#4008",
+      "xmltv_id": "TeleCentro.us@SD",
+      "strict_key": "telecentro"
+    },
+    {
+      "name": "Hola TV",
+      "site_id": "430#3710",
+      "xmltv_id": "HolaTV.us@SD",
+      "strict_key": "holatv"
+    },
+    {
+      "name": "Peru Magico",
+      "site_id": "431#3445",
+      "xmltv_id": "PeruMagico.pe@SD",
+      "strict_key": "perumagico"
+    },
+    {
+      "name": "ZooMoo",
+      "site_id": "432#5616",
+      "xmltv_id": "ZooMoo.sg@SD",
+      "strict_key": "zoomoo"
+    },
+    {
+      "name": "Bandamax",
+      "site_id": "433#5446",
+      "xmltv_id": "BandamaxUSA.us@SD",
+      "strict_key": "bandamax"
+    },
+    {
+      "name": "Hogar de HGTV",
+      "site_id": "434#6544",
+      "xmltv_id": "",
+      "strict_key": "hogardehgtv"
+    },
+    {
+      "name": "Nat Geo Mundo",
+      "site_id": "435#2551",
+      "xmltv_id": "NatGeoMundo.us@SD",
+      "strict_key": "natgeomundo"
+    },
+    {
+      "name": "Discovery Familia",
+      "site_id": "436#2529",
+      "xmltv_id": "DiscoveryFamilia.us@SD",
+      "strict_key": "discoveryfamilia"
+    },
+    {
+      "name": "TV Chile",
+      "site_id": "437#2556",
+      "xmltv_id": "TVChile.cl@SD",
+      "strict_key": "tvchile"
+    },
+    {
+      "name": "Ecuavisa Internacional",
+      "site_id": "438#5447",
+      "xmltv_id": "EcuavisaInternacional.ec@SD",
+      "strict_key": "ecuavisainternacional"
+    },
+    {
+      "name": "SUR Peru",
+      "site_id": "439#2544",
+      "xmltv_id": "SurPeru.pe@SD",
+      "strict_key": "surperu"
+    },
+    {
+      "name": "Vme",
+      "site_id": "440#3818",
+      "xmltv_id": "",
+      "strict_key": "vme"
+    },
+    {
+      "name": "Azteca America",
+      "site_id": "441#2549",
+      "xmltv_id": "AztecaUS.us@East",
+      "strict_key": "aztecaamerica"
+    },
+    {
+      "name": "Estrella TV",
+      "site_id": "442#2550",
+      "xmltv_id": "EstrellaTV.us@SD",
+      "strict_key": "estrellatv"
+    },
+    {
+      "name": "History en Espanol",
+      "site_id": "443#2554",
+      "xmltv_id": "HistoryenEspanol.us@SD",
+      "strict_key": "historyenespanol"
+    },
+    {
+      "name": "Pasiones",
+      "site_id": "444#3712",
+      "xmltv_id": "Pasiones.us@SD",
+      "strict_key": "pasiones"
+    },
+    {
+      "name": "Tr3S",
+      "site_id": "445#2800",
+      "xmltv_id": "MTVTr3s.us@East",
+      "strict_key": "tr3s"
+    },
+    {
+      "name": "Canal 22 Internacional",
+      "site_id": "446#6104",
+      "xmltv_id": "Canal22Internacional.mx@SD",
+      "strict_key": "canal22internacional"
+    },
+    {
+      "name": "Once Mexico",
+      "site_id": "447#2548",
+      "xmltv_id": "XEIPNTDT.mx@SD",
+      "strict_key": "oncemexico"
+    },
+    {
+      "name": "Enlace",
+      "site_id": "448#3803",
+      "xmltv_id": "Enlace.cr@SD",
+      "strict_key": "enlace"
+    },
+    {
+      "name": "Sony Cine",
+      "site_id": "449#4557",
+      "xmltv_id": "CineSony.us@SD",
+      "strict_key": "sonycine"
+    },
+    {
+      "name": "Viendo Movies",
+      "site_id": "450#3676",
+      "xmltv_id": "ViendoMovies.us@SD",
+      "strict_key": "viendomovies"
+    },
+    {
+      "name": "De Pelicula",
+      "site_id": "451#3880",
+      "xmltv_id": "DePeliculaUS.us@SD",
+      "strict_key": "depelicula"
+    },
+    {
+      "name": "De Pelicula Clasico",
+      "site_id": "452#2824",
+      "xmltv_id": "DePeliculaClasico.mx@SD",
+      "strict_key": "depeliculaclasico"
+    },
+    {
+      "name": "FOROtv",
+      "site_id": "453#3439",
+      "xmltv_id": "Foro.mx@SD",
+      "strict_key": "forotv"
+    },
+    {
+      "name": "Univision telenovelas",
+      "site_id": "454#3757",
+      "xmltv_id": "UnivisionTlnovelas.us@SD",
+      "strict_key": "univisiontelenovelas"
+    },
+    {
+      "name": "INFO Temp 7",
+      "site_id": "455#2527",
+      "xmltv_id": "",
+      "strict_key": "infotemp7"
+    },
+    {
+      "name": "ESNE PIO",
+      "site_id": "456#578",
+      "xmltv_id": "",
+      "strict_key": "esnepio"
+    },
+    {
+      "name": "Ecuador TV",
+      "site_id": "457#5441",
+      "xmltv_id": "EcuadorTV.ec@SD",
+      "strict_key": "ecuadortv"
+    },
+    {
+      "name": "Antena 3",
+      "site_id": "458#3735",
+      "xmltv_id": "Antena3Internacional.es@SD",
+      "strict_key": "antena3"
+    },
+    {
+      "name": "Atres Cine",
+      "site_id": "459#6468",
+      "xmltv_id": "",
+      "strict_key": "atrescine"
+    },
+    {
+      "name": "TVE",
+      "site_id": "460#2799",
+      "xmltv_id": "TVEInternacionalAmerica.es@SD",
+      "strict_key": "tve"
+    },
+    {
+      "name": "HITN",
+      "site_id": "461#5541",
+      "xmltv_id": "HITN.us@SD",
+      "strict_key": "hitn"
+    },
+    {
+      "name": "Cine Mexicano",
+      "site_id": "462#3576",
+      "xmltv_id": "CineMexicano.us@SD",
+      "strict_key": "cinemexicano"
+    },
+    {
+      "name": "TUDN HD",
+      "site_id": "464#2016",
+      "xmltv_id": "TUDN.us@SD",
+      "strict_key": "tudnhd"
+    },
+    {
+      "name": "TUDN",
+      "site_id": "464#2021",
+      "xmltv_id": "TUDN.us@SD",
+      "strict_key": "tudn"
+    },
+    {
+      "name": "FOX Deportes",
+      "site_id": "465#2557",
+      "xmltv_id": "FoxDeportes.us@SD",
+      "strict_key": "foxdeportes"
+    },
+    {
+      "name": "FOX Deportes HD",
+      "site_id": "465#3296",
+      "xmltv_id": "FoxDeportes.us@SD",
+      "strict_key": "foxdeporteshd"
+    },
+    {
+      "name": "ESPN Deportes",
+      "site_id": "466#2611",
+      "xmltv_id": "ESPNDeportes.us@SD",
+      "strict_key": "espndeportes"
+    },
+    {
+      "name": "ESPN Deportes HD",
+      "site_id": "466#8083",
+      "xmltv_id": "ESPNDeportes.us@SD",
+      "strict_key": "espndeporteshd"
+    },
+    {
+      "name": "GolTV",
+      "site_id": "468#3641",
+      "xmltv_id": "GolTVUSA.us@SD",
+      "strict_key": "goltv"
+    },
+    {
+      "name": "TyC Sports",
+      "site_id": "469#5451",
+      "xmltv_id": "TyCSportsLatinAmerica.ar@Panregional",
+      "strict_key": "tycsports"
+    },
+    {
+      "name": "Nuestra Vision",
+      "site_id": "472#6463",
+      "xmltv_id": "",
+      "strict_key": "nuestravision"
+    },
+    {
+      "name": "Estrella News",
+      "site_id": "473#6461",
+      "xmltv_id": "EstrellaNews.us@SD",
+      "strict_key": "estrellanews"
+    },
+    {
+      "name": "Meganoticias",
+      "site_id": "474#6460",
+      "xmltv_id": "",
+      "strict_key": "meganoticias"
+    },
+    {
+      "name": "MLS Direct Kick 475",
+      "site_id": "475#475",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick475"
+    },
+    {
+      "name": "MLS Direct Kick 475 HD",
+      "site_id": "475#5475",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick475hd"
+    },
+    {
+      "name": "MLS Direct Kick 476",
+      "site_id": "476#476",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick476"
+    },
+    {
+      "name": "MLS Direct Kick 476 HD",
+      "site_id": "476#5476",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick476hd"
+    },
+    {
+      "name": "MLS Direct Kick 477 HD",
+      "site_id": "477#455",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick477hd"
+    },
+    {
+      "name": "MLS Direct Kick 477",
+      "site_id": "477#477",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick477"
+    },
+    {
+      "name": "MLS Direct Kick 478 HD",
+      "site_id": "478#452",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick478hd"
+    },
+    {
+      "name": "MLS Direct Kick 478",
+      "site_id": "478#478",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick478"
+    },
+    {
+      "name": "MLS Direct Kick 479",
+      "site_id": "479#479",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick479"
+    },
+    {
+      "name": "MLS Direct Kick 479 HD",
+      "site_id": "479#3879",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick479hd"
+    },
+    {
+      "name": "MLS Direct Kick 480",
+      "site_id": "480#461",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick480"
+    },
+    {
+      "name": "MLS Direct Kick 480 HD",
+      "site_id": "480#5461",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick480hd"
+    },
+    {
+      "name": "MLS Direct Kick 481",
+      "site_id": "481#462",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick481"
+    },
+    {
+      "name": "MLS Direct Kick 481 HD",
+      "site_id": "481#5462",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick481hd"
+    },
+    {
+      "name": "MLS Direct Kick 482",
+      "site_id": "482#463",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick482"
+    },
+    {
+      "name": "MLS Direct Kick 482 HD",
+      "site_id": "482#5463",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick482hd"
+    },
+    {
+      "name": "MLS Direct Kick 483",
+      "site_id": "483#464",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick483"
+    },
+    {
+      "name": "MLS Direct Kick 483 HD",
+      "site_id": "483#5464",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick483hd"
+    },
+    {
+      "name": "MLS Direct Kick 484",
+      "site_id": "484#474",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick484"
+    },
+    {
+      "name": "MLS Direct Kick 484 HD",
+      "site_id": "484#5474",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick484hd"
+    },
+    {
+      "name": "MLS Direct Kick 485",
+      "site_id": "485#473",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick485"
+    },
+    {
+      "name": "MLS Direct Kick 485 HD",
+      "site_id": "485#5473",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick485hd"
+    },
+    {
+      "name": "MLS Direct Kick 486",
+      "site_id": "486#472",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick486"
+    },
+    {
+      "name": "MLS Direct Kick 486 HD",
+      "site_id": "486#5472",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick486hd"
+    },
+    {
+      "name": "MLS Direct Kick 487",
+      "site_id": "487#471",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick487"
+    },
+    {
+      "name": "MLS Direct Kick 487 HD",
+      "site_id": "487#5471",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick487hd"
+    },
+    {
+      "name": "MLS Direct Kick 488",
+      "site_id": "488#1488",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick488"
+    },
+    {
+      "name": "MLS Direct Kick 488 HD",
+      "site_id": "488#4488",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick488hd"
+    },
+    {
+      "name": "MLS Direct Kick 489",
+      "site_id": "489#489",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick489"
+    },
+    {
+      "name": "MLS Direct Kick 489 HD",
+      "site_id": "489#4489",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick489hd"
+    },
+    {
+      "name": "MLS Direct Kick 490",
+      "site_id": "490#4490",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick490"
+    },
+    {
+      "name": "MLS Direct Kick 490 HD",
+      "site_id": "490#5490",
+      "xmltv_id": "",
+      "strict_key": "mlsdirectkick490hd"
+    },
+    {
+      "name": "DTV Cinema 496",
+      "site_id": "496#2174",
+      "xmltv_id": "",
+      "strict_key": "dtvcinema496"
+    },
+    {
+      "name": "HBO East",
+      "site_id": "501#501",
+      "xmltv_id": "HBO.us@East",
+      "strict_key": "hboeast"
+    },
+    {
+      "name": "HBO HD East",
+      "site_id": "501#1967",
+      "xmltv_id": "HBO.us@East",
+      "strict_key": "hbohdeast"
+    },
+    {
+      "name": "HBO 2 East",
+      "site_id": "502#502",
+      "xmltv_id": "HBO2.us@East",
+      "strict_key": "hbo2east"
+    },
+    {
+      "name": "HBO2 HD East",
+      "site_id": "502#3778",
+      "xmltv_id": "HBO2.us@East",
+      "strict_key": "hbo2hdeast"
+    },
+    {
+      "name": "HBO Signature",
+      "site_id": "503#503",
+      "xmltv_id": "HBOSignature.us@East",
+      "strict_key": "hbosignature"
+    },
+    {
+      "name": "HBO Signature HD East",
+      "site_id": "503#1786",
+      "xmltv_id": "HBOSignature.us@East",
+      "strict_key": "hbosignaturehdeast"
+    },
+    {
+      "name": "HBO West",
+      "site_id": "504#504",
+      "xmltv_id": "HBO.us@West",
+      "strict_key": "hbowest"
+    },
+    {
+      "name": "HBO West HD",
+      "site_id": "504#8219",
+      "xmltv_id": "HBO.us@West",
+      "strict_key": "hbowesthd"
+    },
+    {
+      "name": "HBO 2 West",
+      "site_id": "505#505",
+      "xmltv_id": "HBO2.us@West",
+      "strict_key": "hbo2west"
+    },
+    {
+      "name": "HBO2 West HD",
+      "site_id": "505#3336",
+      "xmltv_id": "HBO2.us@West",
+      "strict_key": "hbo2westhd"
+    },
+    {
+      "name": "HBO Comedy HD",
+      "site_id": "506#4064",
+      "xmltv_id": "HBOComedy.us@East",
+      "strict_key": "hbocomedyhd"
+    },
+    {
+      "name": "HBO Family East",
+      "site_id": "507#507",
+      "xmltv_id": "HBOFamily.us@East",
+      "strict_key": "hbofamilyeast"
+    },
+    {
+      "name": "HBO Family East HD",
+      "site_id": "507#8973",
+      "xmltv_id": "HBOFamily.us@East",
+      "strict_key": "hbofamilyeasthd"
+    },
+    {
+      "name": "HBO Family West",
+      "site_id": "508#508",
+      "xmltv_id": "",
+      "strict_key": "hbofamilywest"
+    },
+    {
+      "name": "HBO Zone HD",
+      "site_id": "509#3779",
+      "xmltv_id": "HBOZone.us@East",
+      "strict_key": "hbozonehd"
+    },
+    {
+      "name": "HBO Latino",
+      "site_id": "511#3542",
+      "xmltv_id": "HBOLatino.us@East",
+      "strict_key": "hbolatino"
+    },
+    {
+      "name": "HBO Latino HD",
+      "site_id": "511#4065",
+      "xmltv_id": "HBOLatino.us@East",
+      "strict_key": "hbolatinohd"
+    },
+    {
+      "name": "Cinemax",
+      "site_id": "515#512",
+      "xmltv_id": "Cinemax.us@East",
+      "strict_key": "cinemax"
+    },
+    {
+      "name": "Cinemax East HD",
+      "site_id": "515#8214",
+      "xmltv_id": "Cinemax.us@East",
+      "strict_key": "cinemaxeasthd"
+    },
+    {
+      "name": "Cinemax West",
+      "site_id": "516#514",
+      "xmltv_id": "Cinemax.us@West",
+      "strict_key": "cinemaxwest"
+    },
+    {
+      "name": "Cinemax West HD",
+      "site_id": "516#8267",
+      "xmltv_id": "Cinemax.us@West",
+      "strict_key": "cinemaxwesthd"
+    },
+    {
+      "name": "MoreMAX",
+      "site_id": "517#513",
+      "xmltv_id": "MoreMax.us@East",
+      "strict_key": "moremax"
+    },
+    {
+      "name": "MoreMAX HD",
+      "site_id": "517#4066",
+      "xmltv_id": "",
+      "strict_key": "moremaxhd"
+    },
+    {
+      "name": "ActionMax HD",
+      "site_id": "519#4067",
+      "xmltv_id": "ActionMax.us@East",
+      "strict_key": "actionmaxhd"
+    },
+    {
+      "name": "5StarMAX HD",
+      "site_id": "520#3324",
+      "xmltv_id": "5StarMax.us@East",
+      "strict_key": "5starmaxhd"
+    },
+    {
+      "name": "MovieMAX",
+      "site_id": "521#3339",
+      "xmltv_id": "MovieMax.us@East",
+      "strict_key": "moviemax"
+    },
+    {
+      "name": "ThrillerMAX HD",
+      "site_id": "522#4068",
+      "xmltv_id": "ThrillerMax.us@East",
+      "strict_key": "thrillermaxhd"
+    },
+    {
+      "name": "Cinemax Latino HD",
+      "site_id": "523#3340",
+      "xmltv_id": "MaxLatino.us@SD",
+      "strict_key": "cinemaxlatinohd"
+    },
+    {
+      "name": "STARZ East",
+      "site_id": "525#520",
+      "xmltv_id": "Starz.us@East",
+      "strict_key": "starzeast"
+    },
+    {
+      "name": "STARZ East HD",
+      "site_id": "525#8229",
+      "xmltv_id": "Starz.us@East",
+      "strict_key": "starzeasthd"
+    },
+    {
+      "name": "STARZ West",
+      "site_id": "526#521",
+      "xmltv_id": "Starz.us@West",
+      "strict_key": "starzwest"
+    },
+    {
+      "name": "STARZ West HD",
+      "site_id": "526#8228",
+      "xmltv_id": "Starz.us@West",
+      "strict_key": "starzwesthd"
+    },
+    {
+      "name": "STARZ Kids & Family HD",
+      "site_id": "527#8257",
+      "xmltv_id": "StarzKidsFamily.us@East",
+      "strict_key": "starzkidsandfamilyhd"
+    },
+    {
+      "name": "STARZ Comedy HD",
+      "site_id": "528#8247",
+      "xmltv_id": "StarzComedy.us@East",
+      "strict_key": "starzcomedyhd"
+    },
+    {
+      "name": "STARZ Edge",
+      "site_id": "529#522",
+      "xmltv_id": "StarzEdge.us@East",
+      "strict_key": "starzedge"
+    },
+    {
+      "name": "STARZ Edge HD",
+      "site_id": "529#8224",
+      "xmltv_id": "StarzEdge.us@East",
+      "strict_key": "starzedgehd"
+    },
+    {
+      "name": "STARZ in Black",
+      "site_id": "530#523",
+      "xmltv_id": "StarzInBlack.us@East",
+      "strict_key": "starzinblack"
+    },
+    {
+      "name": "STARZ in Black HD",
+      "site_id": "530#3786",
+      "xmltv_id": "StarzInBlack.us@East",
+      "strict_key": "starzinblackhd"
+    },
+    {
+      "name": "STARZ Cinema HD",
+      "site_id": "531#3784",
+      "xmltv_id": "StarzCinema.us@East",
+      "strict_key": "starzcinemahd"
+    },
+    {
+      "name": "STARZ Encore",
+      "site_id": "535#526",
+      "xmltv_id": "StarzEncore.us@East",
+      "strict_key": "starzencore"
+    },
+    {
+      "name": "STARZ Encore HD",
+      "site_id": "535#3777",
+      "xmltv_id": "StarzEncore.us@East",
+      "strict_key": "starzencorehd"
+    },
+    {
+      "name": "STARZ Encore West",
+      "site_id": "536#527",
+      "xmltv_id": "StarzEncore.us@West",
+      "strict_key": "starzencorewest"
+    },
+    {
+      "name": "STARZ Encore Classic",
+      "site_id": "537#528",
+      "xmltv_id": "StarzEncoreClassic.us@East",
+      "strict_key": "starzencoreclassic"
+    },
+    {
+      "name": "STARZ Encore Westerns",
+      "site_id": "538#529",
+      "xmltv_id": "StarzEncoreWesterns.us@East",
+      "strict_key": "starzencorewesterns"
+    },
+    {
+      "name": "STARZ Encore Suspense",
+      "site_id": "539#530",
+      "xmltv_id": "StarzEncoreSuspense.us@East",
+      "strict_key": "starzencoresuspense"
+    },
+    {
+      "name": "STARZ Encore Black",
+      "site_id": "540#531",
+      "xmltv_id": "StarzEncoreBlack.us@East",
+      "strict_key": "starzencoreblack"
+    },
+    {
+      "name": "STARZ Encore Action",
+      "site_id": "541#532",
+      "xmltv_id": "StarzEncoreAction.us@East",
+      "strict_key": "starzencoreaction"
+    },
+    {
+      "name": "STARZ Encore Action HD",
+      "site_id": "541#6219",
+      "xmltv_id": "StarzEncoreAction.us@East",
+      "strict_key": "starzencoreactionhd"
+    },
+    {
+      "name": "STARZ Encore Family",
+      "site_id": "542#533",
+      "xmltv_id": "StarzEncoreFamily.us@East",
+      "strict_key": "starzencorefamily"
+    },
+    {
+      "name": "Showtime (E)",
+      "site_id": "545#537",
+      "xmltv_id": "Showtime.us@East",
+      "strict_key": "showtimee"
+    },
+    {
+      "name": "Showtime HD East",
+      "site_id": "545#1968",
+      "xmltv_id": "Showtime.us@East",
+      "strict_key": "showtimehdeast"
+    },
+    {
+      "name": "Showtime (W)",
+      "site_id": "546#540",
+      "xmltv_id": "Showtime.us@West",
+      "strict_key": "showtimew"
+    },
+    {
+      "name": "Showtime HD West",
+      "site_id": "546#8234",
+      "xmltv_id": "Showtime.us@West",
+      "strict_key": "showtimehdwest"
+    },
+    {
+      "name": "SHOWTIME 2",
+      "site_id": "547#538",
+      "xmltv_id": "Showtime2.us@East",
+      "strict_key": "showtime2"
+    },
+    {
+      "name": "SHOWTIME 2 HD",
+      "site_id": "547#8252",
+      "xmltv_id": "Showtime2.us@East",
+      "strict_key": "showtime2hd"
+    },
+    {
+      "name": "SHOxBET HD",
+      "site_id": "548#3781",
+      "xmltv_id": "ShoxBet.us@East",
+      "strict_key": "shoxbethd"
+    },
+    {
+      "name": "SHOxBET",
+      "site_id": "548#4401",
+      "xmltv_id": "ShoxBet.us@East",
+      "strict_key": "shoxbet"
+    },
+    {
+      "name": "Showtime Extreme",
+      "site_id": "549#542",
+      "xmltv_id": "ShowtimeExtreme.us@East",
+      "strict_key": "showtimeextreme"
+    },
+    {
+      "name": "Showtime Extreme HD",
+      "site_id": "549#4263",
+      "xmltv_id": "ShowtimeExtreme.us@East",
+      "strict_key": "showtimeextremehd"
+    },
+    {
+      "name": "Showtime Showcase HD",
+      "site_id": "550#4224",
+      "xmltv_id": "ShowtimeShowcase.us@East",
+      "strict_key": "showtimeshowcasehd"
+    },
+    {
+      "name": "Showtime Next HD",
+      "site_id": "551#3782",
+      "xmltv_id": "ShowtimeNext.us@East",
+      "strict_key": "showtimenexthd"
+    },
+    {
+      "name": "Showtime FamilyZone",
+      "site_id": "552#3705",
+      "xmltv_id": "ShowtimeFamilyZone.us@East",
+      "strict_key": "showtimefamilyzone"
+    },
+    {
+      "name": "The Movie Channel East",
+      "site_id": "553#544",
+      "xmltv_id": "TheMovieChannel.us@East",
+      "strict_key": "themoviechanneleast"
+    },
+    {
+      "name": "The Movie Channel East HD",
+      "site_id": "553#8239",
+      "xmltv_id": "TheMovieChannel.us@East",
+      "strict_key": "themoviechanneleasthd"
+    },
+    {
+      "name": "The Movie Channel West",
+      "site_id": "554#545",
+      "xmltv_id": "TheMovieChannel.us@West",
+      "strict_key": "themoviechannelwest"
+    },
+    {
+      "name": "The Movie Channel Xtra HD",
+      "site_id": "555#3785",
+      "xmltv_id": "TheMovieChannelXtra.us@East",
+      "strict_key": "themoviechannelxtrahd"
+    },
+    {
+      "name": "Flix",
+      "site_id": "556#547",
+      "xmltv_id": "Flix.us@East",
+      "strict_key": "flix"
+    },
+    {
+      "name": "AMC+ HD",
+      "site_id": "557#6709",
+      "xmltv_id": "AMCPlus.us@SD",
+      "strict_key": "amcplushd"
+    },
+    {
+      "name": "MGM+ HD",
+      "site_id": "558#534",
+      "xmltv_id": "",
+      "strict_key": "mgmplushd"
+    },
+    {
+      "name": "MGM+ Hits East",
+      "site_id": "559#535",
+      "xmltv_id": "MGMPlusHits.us@East",
+      "strict_key": "mgmplushitseast"
+    },
+    {
+      "name": "MGM+ Marquee HD",
+      "site_id": "560#536",
+      "xmltv_id": "",
+      "strict_key": "mgmplusmarqueehd"
+    },
+    {
+      "name": "Dog TV",
+      "site_id": "562#6183",
+      "xmltv_id": "DogTV.us@SD",
+      "strict_key": "dogtv"
+    },
+    {
+      "name": "So Yummy",
+      "site_id": "563#4308",
+      "xmltv_id": "SoYummy.us@SD",
+      "strict_key": "soyummy"
+    },
+    {
+      "name": "Hallmark Drama HD",
+      "site_id": "564#3787",
+      "xmltv_id": "HallmarkDrama.us@SD",
+      "strict_key": "hallmarkdramahd"
+    },
+    {
+      "name": "Hallmark Movies & Mysteries HD",
+      "site_id": "565#3527",
+      "xmltv_id": "HallmarkMoviesMysteries.us@East",
+      "strict_key": "hallmarkmoviesandmysterieshd"
+    },
+    {
+      "name": "HDNET MOVIES",
+      "site_id": "566#4210",
+      "xmltv_id": "HDNetMovies.us@SD",
+      "strict_key": "hdnetmovies"
+    },
+    {
+      "name": "Sony Movies",
+      "site_id": "568#2184",
+      "xmltv_id": "SonyMovies.us@SD",
+      "strict_key": "sonymovies"
+    },
+    {
+      "name": "Smithsonian Channel HD",
+      "site_id": "570#8391",
+      "xmltv_id": "SmithsonianChannel.us@East",
+      "strict_key": "smithsonianchannelhd"
+    },
+    {
+      "name": "Crime & Investigation HD",
+      "site_id": "571#4257",
+      "xmltv_id": "CrimePlusInvestigation.us@SD",
+      "strict_key": "crimeandinvestigationhd"
+    },
+    {
+      "name": "MTV Live HD",
+      "site_id": "572#8269",
+      "xmltv_id": "MTVLive.us@SD",
+      "strict_key": "mtvlivehd"
+    },
+    {
+      "name": "Shorts TV HD",
+      "site_id": "573#3708",
+      "xmltv_id": "",
+      "strict_key": "shortstvhd"
+    },
+    {
+      "name": "Commercial Special Events 574",
+      "site_id": "574#575",
+      "xmltv_id": "",
+      "strict_key": "commercialspecialevents574"
+    },
+    {
+      "name": "Playboy TV Monthly Offer",
+      "site_id": "575#589",
+      "xmltv_id": "PlayboyTVMonthlyOffer.us@SD",
+      "strict_key": "playboytvmonthlyoffer"
+    },
+    {
+      "name": "Playboy TV HD",
+      "site_id": "576#8032",
+      "xmltv_id": "PlayboyTV.us@SD",
+      "strict_key": "playboytvhd"
+    },
+    {
+      "name": "Playboy 2 (577)",
+      "site_id": "577#8453",
+      "xmltv_id": "",
+      "strict_key": "playboy2577"
+    },
+    {
+      "name": "Playboy en Espanol 578",
+      "site_id": "578#6427",
+      "xmltv_id": "",
+      "strict_key": "playboyenespanol578"
+    },
+    {
+      "name": "BraZZers TV Monthly Offer",
+      "site_id": "580#459",
+      "xmltv_id": "",
+      "strict_key": "brazzerstvmonthlyoffer"
+    },
+    {
+      "name": "Hustler & Playboy TV Offers",
+      "site_id": "581#590",
+      "xmltv_id": "",
+      "strict_key": "hustlerandplayboytvoffers"
+    },
+    {
+      "name": "Adult PPV - Ch. 582",
+      "site_id": "582#195",
+      "xmltv_id": "",
+      "strict_key": "adultppvch582"
+    },
+    {
+      "name": "Adult PPV - Ch. 583",
+      "site_id": "583#196",
+      "xmltv_id": "",
+      "strict_key": "adultppvch583"
+    },
+    {
+      "name": "Adult PPV - Ch. 584",
+      "site_id": "584#197",
+      "xmltv_id": "",
+      "strict_key": "adultppvch584"
+    },
+    {
+      "name": "Vivid TV Monthly Offer",
+      "site_id": "585#584",
+      "xmltv_id": "VividTVMonthlyOffer.us@SD",
+      "strict_key": "vividtvmonthlyoffer"
+    },
+    {
+      "name": "Penthouse TV Monthly Offer",
+      "site_id": "587#587",
+      "xmltv_id": "PenthouseTVMonthlyOffer.us@SD",
+      "strict_key": "penthousetvmonthlyoffer"
+    },
+    {
+      "name": "Hustler Monthly Offer",
+      "site_id": "588#588",
+      "xmltv_id": "",
+      "strict_key": "hustlermonthlyoffer"
+    },
+    {
+      "name": "Adult All Access Pass Ch. 591",
+      "site_id": "591#2376",
+      "xmltv_id": "",
+      "strict_key": "adultallaccesspassch591"
+    },
+    {
+      "name": "Adult All Access Pass Ch. 592",
+      "site_id": "592#3452",
+      "xmltv_id": "",
+      "strict_key": "adultallaccesspassch592"
+    },
+    {
+      "name": "Adult Billboard IPPV Ch 593",
+      "site_id": "593#593",
+      "xmltv_id": "",
+      "strict_key": "adultbillboardippvch593"
+    },
+    {
+      "name": "Reality Kings",
+      "site_id": "594#3702",
+      "xmltv_id": "RealityKingsTV.us@SD",
+      "strict_key": "realitykings"
+    },
+    {
+      "name": "Penthouse TV",
+      "site_id": "595#3143",
+      "xmltv_id": "PenthouseTV.us@SD",
+      "strict_key": "penthousetv"
+    },
+    {
+      "name": "Bang U",
+      "site_id": "596#596",
+      "xmltv_id": "BangU.us@SD",
+      "strict_key": "bangu"
+    },
+    {
+      "name": "BraZZers TV",
+      "site_id": "597#597",
+      "xmltv_id": "",
+      "strict_key": "brazzerstv"
+    },
+    {
+      "name": "Vivid TV",
+      "site_id": "598#598",
+      "xmltv_id": "VividTV.us@SD",
+      "strict_key": "vividtv"
+    },
+    {
+      "name": "Hustler TV",
+      "site_id": "599#599",
+      "xmltv_id": "HustlerHD.nl@SD",
+      "strict_key": "hustlertv"
+    },
+    {
+      "name": "SPORTS MIX HD (600)",
+      "site_id": "600#5600",
+      "xmltv_id": "",
+      "strict_key": "sportsmixhd600"
+    },
+    {
+      "name": "FanDuel TV HD",
+      "site_id": "602#1301",
+      "xmltv_id": "",
+      "strict_key": "fandueltvhd"
+    },
+    {
+      "name": "Cowboy Channel",
+      "site_id": "603#630",
+      "xmltv_id": "TheCowboyChannel.us@SD",
+      "strict_key": "cowboychannel"
+    },
+    {
+      "name": "Pursuit Channel",
+      "site_id": "604#2612",
+      "xmltv_id": "PursuitChannel.us@SD",
+      "strict_key": "pursuitchannel"
+    },
+    {
+      "name": "Sportsman Channel",
+      "site_id": "605#2605",
+      "xmltv_id": "SportsmanChannel.us@SD",
+      "strict_key": "sportsmanchannel"
+    },
+    {
+      "name": "Outdoor Channel HD",
+      "site_id": "606#603",
+      "xmltv_id": "OutdoorChannel.us@SD",
+      "strict_key": "outdoorchannelhd"
+    },
+    {
+      "name": "Outdoor Channel",
+      "site_id": "606#606",
+      "xmltv_id": "OutdoorChannel.us@SD",
+      "strict_key": "outdoorchannel"
+    },
+    {
+      "name": "Stadium College Sports Atlantic",
+      "site_id": "608#2617",
+      "xmltv_id": "StadiumCollegeSports.us@Atlantic",
+      "strict_key": "stadiumcollegesportsatlantic"
+    },
+    {
+      "name": "Stadium College Sports Central",
+      "site_id": "608#2623",
+      "xmltv_id": "StadiumCollegeSports.us@Central",
+      "strict_key": "stadiumcollegesportscentral"
+    },
+    {
+      "name": "Stadium College Sports Pacific",
+      "site_id": "608#2626",
+      "xmltv_id": "StadiumCollegeSports.us@Pacific",
+      "strict_key": "stadiumcollegesportspacific"
+    },
+    {
+      "name": "BTN",
+      "site_id": "610#2610",
+      "xmltv_id": "",
+      "strict_key": "btn"
+    },
+    {
+      "name": "BTN HD",
+      "site_id": "610#5610",
+      "xmltv_id": "",
+      "strict_key": "btnhd"
+    },
+    {
+      "name": "SEC Network Alternate",
+      "site_id": "611#632",
+      "xmltv_id": "SECNetworkAlternate.us@SD",
+      "strict_key": "secnetworkalternate"
+    },
+    {
+      "name": "SEC Network Alternate HD",
+      "site_id": "611#633",
+      "xmltv_id": "SECNetworkAlternate.us@SD",
+      "strict_key": "secnetworkalternatehd"
+    },
+    {
+      "name": "SEC Network HD",
+      "site_id": "611#3669",
+      "xmltv_id": "SECNetwork.us@SD",
+      "strict_key": "secnetworkhd"
+    },
+    {
+      "name": "SEC Network",
+      "site_id": "611#4003",
+      "xmltv_id": "SECNetwork.us@SD",
+      "strict_key": "secnetwork"
+    },
+    {
+      "name": "ACC Network",
+      "site_id": "612#3910",
+      "xmltv_id": "ACCNetwork.us@SD",
+      "strict_key": "accnetwork"
+    },
+    {
+      "name": "ACC Network HD",
+      "site_id": "612#3911",
+      "xmltv_id": "ACCNetwork.us@SD",
+      "strict_key": "accnetworkhd"
+    },
+    {
+      "name": "FOX Sports 2",
+      "site_id": "618#2618",
+      "xmltv_id": "FoxSports2LatinAmerica.us@South",
+      "strict_key": "foxsports2"
+    },
+    {
+      "name": "FOX Sports 2 HD",
+      "site_id": "618#5618",
+      "xmltv_id": "FoxSports2LatinAmerica.us@South",
+      "strict_key": "foxsports2hd"
+    },
+    {
+      "name": "FOX Soccer Plus",
+      "site_id": "621#621",
+      "xmltv_id": "FoxSoccerPlus.us@SD",
+      "strict_key": "foxsoccerplus"
+    },
+    {
+      "name": "Next Level Sports HD",
+      "site_id": "623#8981",
+      "xmltv_id": "",
+      "strict_key": "nextlevelsportshd"
+    },
+    {
+      "name": "NESN",
+      "site_id": "628#2628",
+      "xmltv_id": "NESN.us@SD",
+      "strict_key": "nesn"
+    },
+    {
+      "name": "NESN HD",
+      "site_id": "628#5628",
+      "xmltv_id": "NESN.us@SD",
+      "strict_key": "nesnhd"
+    },
+    {
+      "name": "NBC Sports Boston Alternate",
+      "site_id": "630#610",
+      "xmltv_id": "",
+      "strict_key": "nbcsportsbostonalternate"
+    },
+    {
+      "name": "NBC Sports Boston Alternate HD",
+      "site_id": "630#615",
+      "xmltv_id": "",
+      "strict_key": "nbcsportsbostonalternatehd"
+    },
+    {
+      "name": "NBC Sports Boston",
+      "site_id": "630#2630",
+      "xmltv_id": "NBCSportsBoston.us@SD",
+      "strict_key": "nbcsportsboston"
+    },
+    {
+      "name": "NBC Sports Boston HD",
+      "site_id": "630#5630",
+      "xmltv_id": "NBCSportsBoston.us@SD",
+      "strict_key": "nbcsportsbostonhd"
+    },
+    {
+      "name": "Yankee Ent. & Sports (YES)",
+      "site_id": "631#2631",
+      "xmltv_id": "YesNetwork.us@SD",
+      "strict_key": "yankeeentandsportsyes"
+    },
+    {
+      "name": "YES (Alternate)",
+      "site_id": "631#2633",
+      "xmltv_id": "",
+      "strict_key": "yesalternate"
+    },
+    {
+      "name": "YES HD",
+      "site_id": "631#5631",
+      "xmltv_id": "YesNetwork.us@SD",
+      "strict_key": "yeshd"
+    },
+    {
+      "name": "YES HD (Alternate)",
+      "site_id": "631#8264",
+      "xmltv_id": "",
+      "strict_key": "yeshdalternate"
+    },
+    {
+      "name": "Madison Square Garden",
+      "site_id": "634#2634",
+      "xmltv_id": "",
+      "strict_key": "madisonsquaregarden"
+    },
+    {
+      "name": "Madison Square Garden HD",
+      "site_id": "634#5634",
+      "xmltv_id": "",
+      "strict_key": "madisonsquaregardenhd"
+    },
+    {
+      "name": "MSG/MSGSN Alternate 635-3 HD",
+      "site_id": "635#2447",
+      "xmltv_id": "",
+      "strict_key": "msgmsgsnalternate6353hd"
+    },
+    {
+      "name": "MSG Sportsnet",
+      "site_id": "635#2635",
+      "xmltv_id": "",
+      "strict_key": "msgsportsnet"
+    },
+    {
+      "name": "MSG Alternate 635-1",
+      "site_id": "635#2636",
+      "xmltv_id": "",
+      "strict_key": "msgalternate6351"
+    },
+    {
+      "name": "MSG/MSGSN Alternate 635-2",
+      "site_id": "635#2637",
+      "xmltv_id": "",
+      "strict_key": "msgmsgsnalternate6352"
+    },
+    {
+      "name": "MSG/MSGSN Alternate 635-3",
+      "site_id": "635#2638",
+      "xmltv_id": "",
+      "strict_key": "msgmsgsnalternate6353"
+    },
+    {
+      "name": "MSG Sportsnet HD",
+      "site_id": "635#5635",
+      "xmltv_id": "",
+      "strict_key": "msgsportsnethd"
+    },
+    {
+      "name": "MSG Alternate HD 635-1",
+      "site_id": "635#5636",
+      "xmltv_id": "",
+      "strict_key": "msgalternatehd6351"
+    },
+    {
+      "name": "MSG/MSGSN Alternate 635-2 HD",
+      "site_id": "635#5637",
+      "xmltv_id": "",
+      "strict_key": "msgmsgsnalternate6352hd"
+    },
+    {
+      "name": "SportsNet New York",
+      "site_id": "639#2639",
+      "xmltv_id": "SportsNetNewYork.us@SD",
+      "strict_key": "sportsnetnewyork"
+    },
+    {
+      "name": "SportsNet New York HD",
+      "site_id": "639#5639",
+      "xmltv_id": "SportsNetNewYork.us@SD",
+      "strict_key": "sportsnetnewyorkhd"
+    },
+    {
+      "name": "MASN",
+      "site_id": "640#2640",
+      "xmltv_id": "MASN.us@SD",
+      "strict_key": "masn"
+    },
+    {
+      "name": "MASN HD",
+      "site_id": "640#5620",
+      "xmltv_id": "",
+      "strict_key": "masnhd"
+    },
+    {
+      "name": "NBC Sports Washington",
+      "site_id": "642#2642",
+      "xmltv_id": "NBCSportsWashington.us@SD",
+      "strict_key": "nbcsportswashington"
+    },
+    {
+      "name": "NBC Sports Washington (Alternate)",
+      "site_id": "642#2643",
+      "xmltv_id": "NBCSportsWashingtonPlus.us@SD",
+      "strict_key": "nbcsportswashingtonalternate"
+    },
+    {
+      "name": "NBC Sports Washington HD",
+      "site_id": "642#5642",
+      "xmltv_id": "NBCSportsWashington.us@SD",
+      "strict_key": "nbcsportswashingtonhd"
+    },
+    {
+      "name": "NBC Sports Washington HD (Alternate)",
+      "site_id": "642#5643",
+      "xmltv_id": "NBCSportsWashingtonPlus.us@SD",
+      "strict_key": "nbcsportswashingtonhdalternate"
+    },
+    {
+      "name": "Bally Sports South Extra 2",
+      "site_id": "646#644",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra2"
+    },
+    {
+      "name": "Bally Sports South",
+      "site_id": "646#2646",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouth"
+    },
+    {
+      "name": "Bally Sports South Extra 4",
+      "site_id": "646#2647",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra4"
+    },
+    {
+      "name": "Bally Sports South Extra 5",
+      "site_id": "646#2648",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra5"
+    },
+    {
+      "name": "Bally Sports South Extra 2 HD",
+      "site_id": "646#5644",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra2hd"
+    },
+    {
+      "name": "Bally Sports South HD",
+      "site_id": "646#5646",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthhd"
+    },
+    {
+      "name": "Bally Sports South Extra 4 HD",
+      "site_id": "646#5647",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra4hd"
+    },
+    {
+      "name": "Bally Sports South Extra 5 HD",
+      "site_id": "646#5648",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra5hd"
+    },
+    {
+      "name": "Bally Sports South Extra 3",
+      "site_id": "646#6144",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra3"
+    },
+    {
+      "name": "Bally Sports South Extra 3 HD",
+      "site_id": "646#6145",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthextra3hd"
+    },
+    {
+      "name": "Bally Sports Southeast Extra 3",
+      "site_id": "649#604",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheastextra3"
+    },
+    {
+      "name": "Bally Sports Southeast Extra 3 HD",
+      "site_id": "649#616",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheastextra3hd"
+    },
+    {
+      "name": "Bally Sports Southeast Extra 2",
+      "site_id": "649#617",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheastextra2"
+    },
+    {
+      "name": "Bally Sports Southeast Extra 2 HD",
+      "site_id": "649#618",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheastextra2hd"
+    },
+    {
+      "name": "Bally Sports Southeast",
+      "site_id": "649#2649",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheast"
+    },
+    {
+      "name": "Bally Sports Southeast Extra",
+      "site_id": "649#2650",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheastextra"
+    },
+    {
+      "name": "Bally Sports Southeast HD",
+      "site_id": "649#5649",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheasthd"
+    },
+    {
+      "name": "Bally Sports Southeast Extra HD",
+      "site_id": "649#5650",
+      "xmltv_id": "",
+      "strict_key": "ballysportssoutheastextrahd"
+    },
+    {
+      "name": "Bally Sports Sun Extra 2",
+      "site_id": "653#2541",
+      "xmltv_id": "",
+      "strict_key": "ballysportssunextra2"
+    },
+    {
+      "name": "Bally Sports Sun Extra 2 HD",
+      "site_id": "653#2542",
+      "xmltv_id": "",
+      "strict_key": "ballysportssunextra2hd"
+    },
+    {
+      "name": "Bally Sports Sun",
+      "site_id": "653#2653",
+      "xmltv_id": "",
+      "strict_key": "ballysportssun"
+    },
+    {
+      "name": "Bally Sports Sun Extra",
+      "site_id": "653#2656",
+      "xmltv_id": "",
+      "strict_key": "ballysportssunextra"
+    },
+    {
+      "name": "Bally Sports Sun HD",
+      "site_id": "653#5653",
+      "xmltv_id": "",
+      "strict_key": "ballysportssunhd"
+    },
+    {
+      "name": "Bally Sports Sun Extra HD",
+      "site_id": "653#5656",
+      "xmltv_id": "",
+      "strict_key": "ballysportssunextrahd"
+    },
+    {
+      "name": "Bally Sports Florida",
+      "site_id": "654#2654",
+      "xmltv_id": "",
+      "strict_key": "ballysportsflorida"
+    },
+    {
+      "name": "Bally Sports Florida Extra",
+      "site_id": "654#2655",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridaextra"
+    },
+    {
+      "name": "Bally Sports Florida HD",
+      "site_id": "654#3774",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridahd"
+    },
+    {
+      "name": "Bally Sports Florida Extra 2",
+      "site_id": "654#5510",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridaextra2"
+    },
+    {
+      "name": "Bally Sports Florida Extra 2 HD",
+      "site_id": "654#5511",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridaextra2hd"
+    },
+    {
+      "name": "Bally Sports Florida Extra HD",
+      "site_id": "654#5655",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridaextrahd"
+    },
+    {
+      "name": "Bally Sports Florida Extra 3",
+      "site_id": "654#8416",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridaextra3"
+    },
+    {
+      "name": "Bally Sports Florida Extra 3 HD",
+      "site_id": "654#8438",
+      "xmltv_id": "",
+      "strict_key": "ballysportsfloridaextra3hd"
+    },
+    {
+      "name": "AT&T SportsNet Pittsburgh (Alternate)",
+      "site_id": "659#619",
+      "xmltv_id": "ATTSportsNetPittsburghAlternate.us@SD",
+      "strict_key": "atandtsportsnetpittsburghalternate"
+    },
+    {
+      "name": "AT&T SportsNet Pittsburgh HD (Alternate)",
+      "site_id": "659#622",
+      "xmltv_id": "ATTSportsNetPittsburghAlternate.us@SD",
+      "strict_key": "atandtsportsnetpittsburghhdalternate"
+    },
+    {
+      "name": "AT&T SportsNet Pittsburgh (Alternate 2)",
+      "site_id": "659#634",
+      "xmltv_id": "",
+      "strict_key": "atandtsportsnetpittsburghalternate2"
+    },
+    {
+      "name": "AT&T SportsNet Pittsburgh HD (Alternate 2)",
+      "site_id": "659#635",
+      "xmltv_id": "",
+      "strict_key": "atandtsportsnetpittsburghhdalternate2"
+    },
+    {
+      "name": "AT&T SportsNet Pittsburgh",
+      "site_id": "659#2659",
+      "xmltv_id": "ATTSportsNetPittsburgh.us@SD",
+      "strict_key": "atandtsportsnetpittsburgh"
+    },
+    {
+      "name": "AT&T SportsNet Pittsburgh HD",
+      "site_id": "659#5659",
+      "xmltv_id": "ATTSportsNetPittsburgh.us@SD",
+      "strict_key": "atandtsportsnetpittsburghhd"
+    },
+    {
+      "name": "Bally Sports Ohio Extra",
+      "site_id": "660#623",
+      "xmltv_id": "",
+      "strict_key": "ballysportsohioextra"
+    },
+    {
+      "name": "Bally Sports Ohio Extra HD",
+      "site_id": "660#624",
+      "xmltv_id": "",
+      "strict_key": "ballysportsohioextrahd"
+    },
+    {
+      "name": "Bally Sports Ohio",
+      "site_id": "660#2660",
+      "xmltv_id": "",
+      "strict_key": "ballysportsohio"
+    },
+    {
+      "name": "Bally Sports Cincinnati Extra",
+      "site_id": "661#625",
+      "xmltv_id": "",
+      "strict_key": "ballysportscincinnatiextra"
+    },
+    {
+      "name": "Bally Sports Cincinnati Extra HD",
+      "site_id": "661#626",
+      "xmltv_id": "",
+      "strict_key": "ballysportscincinnatiextrahd"
+    },
+    {
+      "name": "Bally Sports Cincinnati",
+      "site_id": "661#2661",
+      "xmltv_id": "",
+      "strict_key": "ballysportscincinnati"
+    },
+    {
+      "name": "Bally Sports Great Lakes",
+      "site_id": "662#2662",
+      "xmltv_id": "",
+      "strict_key": "ballysportsgreatlakes"
+    },
+    {
+      "name": "Bally Sports Great Lakes HD",
+      "site_id": "662#5657",
+      "xmltv_id": "",
+      "strict_key": "ballysportsgreatlakeshd"
+    },
+    {
+      "name": "Bally Sports Detroit",
+      "site_id": "663#2663",
+      "xmltv_id": "",
+      "strict_key": "ballysportsdetroit"
+    },
+    {
+      "name": "Bally Sports Detroit Extra",
+      "site_id": "663#2664",
+      "xmltv_id": "",
+      "strict_key": "ballysportsdetroitextra"
+    },
+    {
+      "name": "Bally Sports Detroit HD",
+      "site_id": "663#5663",
+      "xmltv_id": "",
+      "strict_key": "ballysportsdetroithd"
+    },
+    {
+      "name": "Bally Sports Detroit Extra HD",
+      "site_id": "663#5664",
+      "xmltv_id": "",
+      "strict_key": "ballysportsdetroitextrahd"
+    },
+    {
+      "name": "Bally Sports Detroit Extra 2",
+      "site_id": "663#6127",
+      "xmltv_id": "",
+      "strict_key": "ballysportsdetroitextra2"
+    },
+    {
+      "name": "Bally Sports Detroit Extra 2 HD",
+      "site_id": "663#6128",
+      "xmltv_id": "",
+      "strict_key": "ballysportsdetroitextra2hd"
+    },
+    {
+      "name": "Marquee Sports Network",
+      "site_id": "664#557",
+      "xmltv_id": "MarqueeSportsNetwork.us@SD",
+      "strict_key": "marqueesportsnetwork"
+    },
+    {
+      "name": "Marquee Sports Network HD",
+      "site_id": "664#568",
+      "xmltv_id": "MarqueeSportsNetwork.us@SD",
+      "strict_key": "marqueesportsnetworkhd"
+    },
+    {
+      "name": "NBC Sports Chicago",
+      "site_id": "665#2665",
+      "xmltv_id": "NBCSportsChicago.us@SD",
+      "strict_key": "nbcsportschicago"
+    },
+    {
+      "name": "NBC Sports Chicago Plus 2",
+      "site_id": "665#2667",
+      "xmltv_id": "NBCSportsChicagoPlus2.us@SD",
+      "strict_key": "nbcsportschicagoplus2"
+    },
+    {
+      "name": "NBC Sports Chicago Plus 2 HD",
+      "site_id": "665#5627",
+      "xmltv_id": "NBCSportsChicagoPlus2.us@SD",
+      "strict_key": "nbcsportschicagoplus2hd"
+    },
+    {
+      "name": "NBC Sports Chicago HD",
+      "site_id": "665#5665",
+      "xmltv_id": "NBCSportsChicago.us@SD",
+      "strict_key": "nbcsportschicagohd"
+    },
+    {
+      "name": "Bally Sports North Extra 2",
+      "site_id": "668#627",
+      "xmltv_id": "",
+      "strict_key": "ballysportsnorthextra2"
+    },
+    {
+      "name": "Bally Sports North Extra 2 HD",
+      "site_id": "668#628",
+      "xmltv_id": "",
+      "strict_key": "ballysportsnorthextra2hd"
+    },
+    {
+      "name": "Bally Sports North",
+      "site_id": "668#2668",
+      "xmltv_id": "",
+      "strict_key": "ballysportsnorth"
+    },
+    {
+      "name": "Bally Sports North HD",
+      "site_id": "668#5668",
+      "xmltv_id": "",
+      "strict_key": "ballysportsnorthhd"
+    },
+    {
+      "name": "Bally Sports Wisconsin Extra",
+      "site_id": "669#629",
+      "xmltv_id": "",
+      "strict_key": "ballysportswisconsinextra"
+    },
+    {
+      "name": "Bally Sports Wisconsin Extra HD",
+      "site_id": "669#631",
+      "xmltv_id": "",
+      "strict_key": "ballysportswisconsinextrahd"
+    },
+    {
+      "name": "Bally Sports Wisconsin HD",
+      "site_id": "669#2670",
+      "xmltv_id": "",
+      "strict_key": "ballysportswisconsinhd"
+    },
+    {
+      "name": "Bally Sports Midwest Extra",
+      "site_id": "671#640",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwestextra"
+    },
+    {
+      "name": "Bally Sports Midwest Extra HD",
+      "site_id": "671#641",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwestextrahd"
+    },
+    {
+      "name": "Bally Sports Midwest Extra 2",
+      "site_id": "671#642",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwestextra2"
+    },
+    {
+      "name": "Bally Sports Midwest Extra 2 HD",
+      "site_id": "671#643",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwestextra2hd"
+    },
+    {
+      "name": "Bally Sports Midwest Extra 3",
+      "site_id": "671#646",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwestextra3"
+    },
+    {
+      "name": "Bally Sports Midwest Extra 3 HD",
+      "site_id": "671#647",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwestextra3hd"
+    },
+    {
+      "name": "Bally Sports Midwest",
+      "site_id": "671#2671",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwest"
+    },
+    {
+      "name": "Bally Sports Kansas City",
+      "site_id": "671#2672",
+      "xmltv_id": "",
+      "strict_key": "ballysportskansascity"
+    },
+    {
+      "name": "Bally Sports Midwest HD",
+      "site_id": "671#5671",
+      "xmltv_id": "",
+      "strict_key": "ballysportsmidwesthd"
+    },
+    {
+      "name": "Bally Sports Kansas City HD",
+      "site_id": "671#5672",
+      "xmltv_id": "",
+      "strict_key": "ballysportskansascityhd"
+    },
+    {
+      "name": "AT&T SportsNet Southwest (Alternate)",
+      "site_id": "674#444",
+      "xmltv_id": "ATTSportsNetSouthwestAlternate.us@SD",
+      "strict_key": "atandtsportsnetsouthwestalternate"
+    },
+    {
+      "name": "AT&T SportsNet Southwest HD (Alternate)",
+      "site_id": "674#445",
+      "xmltv_id": "ATTSportsNetSouthwestAlternate.us@SD",
+      "strict_key": "atandtsportsnetsouthwesthdalternate"
+    },
+    {
+      "name": "AT&T SportsNet Southwest",
+      "site_id": "674#2674",
+      "xmltv_id": "ATTSportsNetSouthwest.us@SD",
+      "strict_key": "atandtsportsnetsouthwest"
+    },
+    {
+      "name": "AT&T SportsNet Southwest HD",
+      "site_id": "674#5674",
+      "xmltv_id": "ATTSportsNetSouthwest.us@SD",
+      "strict_key": "atandtsportsnetsouthwesthd"
+    },
+    {
+      "name": "Bally Sports Oklahoma HD",
+      "site_id": "675#2675",
+      "xmltv_id": "",
+      "strict_key": "ballysportsoklahomahd"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 4",
+      "site_id": "676#636",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra4"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 4 HD",
+      "site_id": "676#637",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra4hd"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 5",
+      "site_id": "676#638",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra5"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 5 HD",
+      "site_id": "676#639",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra5hd"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 2",
+      "site_id": "676#648",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra2"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 2 HD",
+      "site_id": "676#649",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra2hd"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 3",
+      "site_id": "676#650",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra3"
+    },
+    {
+      "name": "Bally Sports Southwest Extra 3 HD",
+      "site_id": "676#651",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwestextra3hd"
+    },
+    {
+      "name": "Bally Sports Southwest",
+      "site_id": "676#2676",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwest"
+    },
+    {
+      "name": "Bally Sports Southwest HD",
+      "site_id": "676#5676",
+      "xmltv_id": "",
+      "strict_key": "ballysportssouthwesthd"
+    },
+    {
+      "name": "Longhorn Network HD",
+      "site_id": "677#456",
+      "xmltv_id": "LonghornNetwork.us@SD",
+      "strict_key": "longhornnetworkhd"
+    },
+    {
+      "name": "Altitude Sports",
+      "site_id": "681#2681",
+      "xmltv_id": "AltitudeSports.us@SD",
+      "strict_key": "altitudesports"
+    },
+    {
+      "name": "Altitude Sports HD",
+      "site_id": "681#5681",
+      "xmltv_id": "AltitudeSports.us@SD",
+      "strict_key": "altitudesportshd"
+    },
+    {
+      "name": "AT&T SportsNet Rocky Mountain",
+      "site_id": "683#2683",
+      "xmltv_id": "ATTSportsNetRockyMountain.us@SD",
+      "strict_key": "atandtsportsnetrockymountain"
+    },
+    {
+      "name": "AT&T SportsNet Rocky Mountain HD",
+      "site_id": "683#5683",
+      "xmltv_id": "ATTSportsNetRockyMountain.us@SD",
+      "strict_key": "atandtsportsnetrockymountainhd"
+    },
+    {
+      "name": "AT&T SportsNet Rocky Mountain West HD",
+      "site_id": "684#2657",
+      "xmltv_id": "ATTSportsNetRockyMountainWest.us@SD",
+      "strict_key": "atandtsportsnetrockymountainwesthd"
+    },
+    {
+      "name": "AT&T SportsNet Rocky Mountain West",
+      "site_id": "684#2658",
+      "xmltv_id": "ATTSportsNetRockyMountainWest.us@SD",
+      "strict_key": "atandtsportsnetrockymountainwest"
+    },
+    {
+      "name": "Bally Sports Arizona Extra",
+      "site_id": "686#652",
+      "xmltv_id": "BallySportsArizonaExtra.us@SD",
+      "strict_key": "ballysportsarizonaextra"
+    },
+    {
+      "name": "Bally Sports Arizona Extra HD",
+      "site_id": "686#653",
+      "xmltv_id": "BallySportsArizonaExtra.us@SD",
+      "strict_key": "ballysportsarizonaextrahd"
+    },
+    {
+      "name": "Bally Sports Arizona",
+      "site_id": "686#2686",
+      "xmltv_id": "BallySportsArizona.us@SD",
+      "strict_key": "ballysportsarizona"
+    },
+    {
+      "name": "Bally Sports Arizona HD",
+      "site_id": "686#5686",
+      "xmltv_id": "BallySportsArizona.us@SD",
+      "strict_key": "ballysportsarizonahd"
+    },
+    {
+      "name": "Bally Sports Arizona Extra 2",
+      "site_id": "686#6644",
+      "xmltv_id": "BallySportsArizonaPlus.us@SD",
+      "strict_key": "ballysportsarizonaextra2"
+    },
+    {
+      "name": "Bally Sports Arizona Extra 2 HD",
+      "site_id": "686#6645",
+      "xmltv_id": "BallySportsArizonaPlus.us@SD",
+      "strict_key": "ballysportsarizonaextra2hd"
+    },
+    {
+      "name": "ROOT Sports Northwest Plus 2",
+      "site_id": "687#2615",
+      "xmltv_id": "RootSportsNorthwestAlternate.us@SD",
+      "strict_key": "rootsportsnorthwestplus2"
+    },
+    {
+      "name": "ROOT SPORTS Northwest",
+      "site_id": "687#2687",
+      "xmltv_id": "RootSportsNorthwest.us@SD",
+      "strict_key": "rootsportsnorthwest"
+    },
+    {
+      "name": "ROOT SPORTS Northwest Plus",
+      "site_id": "687#2688",
+      "xmltv_id": "RootSportsNorthwestPlus.us@SD",
+      "strict_key": "rootsportsnorthwestplus"
+    },
+    {
+      "name": "ROOT Sports Northwest Plus 2 HD",
+      "site_id": "687#5615",
+      "xmltv_id": "RootSportsNorthwestAlternate.us@SD",
+      "strict_key": "rootsportsnorthwestplus2hd"
+    },
+    {
+      "name": "ROOT SPORTS Northwest HD",
+      "site_id": "687#5687",
+      "xmltv_id": "RootSportsNorthwest.us@SD",
+      "strict_key": "rootsportsnorthwesthd"
+    },
+    {
+      "name": "ROOT SPORTS Northwest Plus HD",
+      "site_id": "687#5688",
+      "xmltv_id": "RootSportsNorthwestPlus.us@SD",
+      "strict_key": "rootsportsnorthwestplushd"
+    },
+    {
+      "name": "Spectrum SportsNet LA",
+      "site_id": "690#806",
+      "xmltv_id": "SpectrumSportsNetLA.us@SD",
+      "strict_key": "spectrumsportsnetla"
+    },
+    {
+      "name": "Spectrum SportsNet LA HD",
+      "site_id": "690#807",
+      "xmltv_id": "SpectrumSportsNetLA.us@SD",
+      "strict_key": "spectrumsportsnetlahd"
+    },
+    {
+      "name": "Spectrum SportsNet HD",
+      "site_id": "691#1104",
+      "xmltv_id": "SpectrumSportsNet.us@SD",
+      "strict_key": "spectrumsportsnethd"
+    },
+    {
+      "name": "Spectrum SportsNet",
+      "site_id": "691#1189",
+      "xmltv_id": "SpectrumSportsNet.us@SD",
+      "strict_key": "spectrumsportsnet"
+    },
+    {
+      "name": "Spectrum SportsNet (Alternate)",
+      "site_id": "691#6654",
+      "xmltv_id": "",
+      "strict_key": "spectrumsportsnetalternate"
+    },
+    {
+      "name": "Spectrum SportsNet HD (Alternate)",
+      "site_id": "691#6655",
+      "xmltv_id": "",
+      "strict_key": "spectrumsportsnethdalternate"
+    },
+    {
+      "name": "Bally Sports West",
+      "site_id": "692#2692",
+      "xmltv_id": "",
+      "strict_key": "ballysportswest"
+    },
+    {
+      "name": "Bally Sports West HD",
+      "site_id": "692#5692",
+      "xmltv_id": "",
+      "strict_key": "ballysportswesthd"
+    },
+    {
+      "name": "Bally Sports West Extra",
+      "site_id": "692#6802",
+      "xmltv_id": "",
+      "strict_key": "ballysportswestextra"
+    },
+    {
+      "name": "Bally Sports West Extra HD",
+      "site_id": "692#6803",
+      "xmltv_id": "",
+      "strict_key": "ballysportswestextrahd"
+    },
+    {
+      "name": "Bally Sports SoCal Extra",
+      "site_id": "693#654",
+      "xmltv_id": "",
+      "strict_key": "ballysportssocalextra"
+    },
+    {
+      "name": "Bally Sports SoCal Extra HD",
+      "site_id": "693#655",
+      "xmltv_id": "",
+      "strict_key": "ballysportssocalextrahd"
+    },
+    {
+      "name": "Bally Sports SoCal",
+      "site_id": "693#2693",
+      "xmltv_id": "",
+      "strict_key": "ballysportssocal"
+    },
+    {
+      "name": "Bally Sports SoCal HD",
+      "site_id": "693#5693",
+      "xmltv_id": "",
+      "strict_key": "ballysportssocalhd"
+    },
+    {
+      "name": "Bally Sports San Diego Extra",
+      "site_id": "694#657",
+      "xmltv_id": "BallySportsSanDiegoPlus.us@SD",
+      "strict_key": "ballysportssandiegoextra"
+    },
+    {
+      "name": "Bally Sports San Diego Extra HD",
+      "site_id": "694#700",
+      "xmltv_id": "BallySportsSanDiegoPlus.us@SD",
+      "strict_key": "ballysportssandiegoextrahd"
+    },
+    {
+      "name": "Bally Sports San Diego Extra 2",
+      "site_id": "694#3640",
+      "xmltv_id": "",
+      "strict_key": "ballysportssandiegoextra2"
+    },
+    {
+      "name": "Bally Sports San Diego Extra 2 HD",
+      "site_id": "694#3651",
+      "xmltv_id": "",
+      "strict_key": "ballysportssandiegoextra2hd"
+    },
+    {
+      "name": "Bally Sports San Diego HD",
+      "site_id": "694#8870",
+      "xmltv_id": "BallySportsSanDiego.us@SD",
+      "strict_key": "ballysportssandiegohd"
+    },
+    {
+      "name": "Bally Sports San Diego",
+      "site_id": "694#8956",
+      "xmltv_id": "BallySportsSanDiego.us@SD",
+      "strict_key": "ballysportssandiego"
+    },
+    {
+      "name": "NBC Sports Bay Area",
+      "site_id": "696#2696",
+      "xmltv_id": "NBCSportsBayArea.us@SD",
+      "strict_key": "nbcsportsbayarea"
+    },
+    {
+      "name": "NBC Sports Bay Area HD",
+      "site_id": "696#3772",
+      "xmltv_id": "NBCSportsBayArea.us@SD",
+      "strict_key": "nbcsportsbayareahd"
+    },
+    {
+      "name": "NBC Sports Bay Area Plus (Alternate 2)",
+      "site_id": "696#6646",
+      "xmltv_id": "NBCSportsBayAreaPlus.us@SD",
+      "strict_key": "nbcsportsbayareaplusalternate2"
+    },
+    {
+      "name": "NBC Sports Bay Area Plus HD (Alternate 2)",
+      "site_id": "696#6647",
+      "xmltv_id": "NBCSportsBayAreaPlus.us@SD",
+      "strict_key": "nbcsportsbayareaplushdalternate2"
+    },
+    {
+      "name": "NBC Sports California (Alternate 2)",
+      "site_id": "698#2669",
+      "xmltv_id": "",
+      "strict_key": "nbcsportscaliforniaalternate2"
+    },
+    {
+      "name": "NBC Sports California",
+      "site_id": "698#2698",
+      "xmltv_id": "NBCSportsCalifornia.us@SD",
+      "strict_key": "nbcsportscalifornia"
+    },
+    {
+      "name": "NBC Sports California HD",
+      "site_id": "698#3773",
+      "xmltv_id": "NBCSportsCalifornia.us@SD",
+      "strict_key": "nbcsportscaliforniahd"
+    },
+    {
+      "name": "NBC Sports California HD (Alternate2)",
+      "site_id": "698#5669",
+      "xmltv_id": "",
+      "strict_key": "nbcsportscaliforniahdalternate2"
+    },
+    {
+      "name": "NFL Sunday Ticket Game Mix 1 HD",
+      "site_id": "701#5701",
+      "xmltv_id": "",
+      "strict_key": "nflsundayticketgamemix1hd"
+    },
+    {
+      "name": "NFL Sunday Ticket Game Mix 2 HD",
+      "site_id": "702#5702",
+      "xmltv_id": "",
+      "strict_key": "nflsundayticketgamemix2hd"
+    },
+    {
+      "name": "NFL Red Zone 703 HD",
+      "site_id": "703#5703",
+      "xmltv_id": "NFLRedZone.us@SD",
+      "strict_key": "nflredzone703hd"
+    },
+    {
+      "name": "NFL Fantasy Zone 704 HD",
+      "site_id": "704#5704",
+      "xmltv_id": "",
+      "strict_key": "nflfantasyzone704hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 705",
+      "site_id": "705#705",
+      "xmltv_id": "NFLSundayTicket1.us@SD",
+      "strict_key": "nflsundayticket705"
+    },
+    {
+      "name": "NFL Sunday Ticket 705 HD",
+      "site_id": "705#5705",
+      "xmltv_id": "NFLSundayTicket1.us@SD",
+      "strict_key": "nflsundayticket705hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 706",
+      "site_id": "706#706",
+      "xmltv_id": "NFLSundayTicket2.us@SD",
+      "strict_key": "nflsundayticket706"
+    },
+    {
+      "name": "NFL Sunday Ticket 706 HD",
+      "site_id": "706#5706",
+      "xmltv_id": "NFLSundayTicket2.us@SD",
+      "strict_key": "nflsundayticket706hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 707",
+      "site_id": "707#707",
+      "xmltv_id": "NFLSundayTicket3.us@SD",
+      "strict_key": "nflsundayticket707"
+    },
+    {
+      "name": "NFL Sunday Ticket 707 HD",
+      "site_id": "707#5707",
+      "xmltv_id": "NFLSundayTicket3.us@SD",
+      "strict_key": "nflsundayticket707hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 708",
+      "site_id": "708#708",
+      "xmltv_id": "NFLSundayTicket4.us@SD",
+      "strict_key": "nflsundayticket708"
+    },
+    {
+      "name": "NFL Sunday Ticket 708 HD",
+      "site_id": "708#5708",
+      "xmltv_id": "NFLSundayTicket4.us@SD",
+      "strict_key": "nflsundayticket708hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 709",
+      "site_id": "709#709",
+      "xmltv_id": "NFLSundayTicket5.us@SD",
+      "strict_key": "nflsundayticket709"
+    },
+    {
+      "name": "NFL Sunday Ticket 709 HD",
+      "site_id": "709#5709",
+      "xmltv_id": "NFLSundayTicket5.us@SD",
+      "strict_key": "nflsundayticket709hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 710",
+      "site_id": "710#710",
+      "xmltv_id": "NFLSundayTicket6.us@SD",
+      "strict_key": "nflsundayticket710"
+    },
+    {
+      "name": "NFL Sunday Ticket 710 HD",
+      "site_id": "710#5710",
+      "xmltv_id": "NFLSundayTicket6.us@SD",
+      "strict_key": "nflsundayticket710hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 711",
+      "site_id": "711#711",
+      "xmltv_id": "NFLSundayTicket7.us@SD",
+      "strict_key": "nflsundayticket711"
+    },
+    {
+      "name": "NFL Sunday Ticket 711 HD",
+      "site_id": "711#5711",
+      "xmltv_id": "NFLSundayTicket7.us@SD",
+      "strict_key": "nflsundayticket711hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 712",
+      "site_id": "712#712",
+      "xmltv_id": "NFLSundayTicket8.us@SD",
+      "strict_key": "nflsundayticket712"
+    },
+    {
+      "name": "NFL Sunday Ticket 712 HD",
+      "site_id": "712#5712",
+      "xmltv_id": "NFLSundayTicket8.us@SD",
+      "strict_key": "nflsundayticket712hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 713",
+      "site_id": "713#713",
+      "xmltv_id": "NFLSundayTicket9.us@SD",
+      "strict_key": "nflsundayticket713"
+    },
+    {
+      "name": "NFL Sunday Ticket 713 HD",
+      "site_id": "713#5713",
+      "xmltv_id": "NFLSundayTicket9.us@SD",
+      "strict_key": "nflsundayticket713hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 714",
+      "site_id": "714#714",
+      "xmltv_id": "NFLSundayTicket10.us@SD",
+      "strict_key": "nflsundayticket714"
+    },
+    {
+      "name": "NFL Sunday Ticket 714 HD",
+      "site_id": "714#5714",
+      "xmltv_id": "NFLSundayTicket10.us@SD",
+      "strict_key": "nflsundayticket714hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 715",
+      "site_id": "715#715",
+      "xmltv_id": "NFLSundayTicket11.us@SD",
+      "strict_key": "nflsundayticket715"
+    },
+    {
+      "name": "NFL Sunday Ticket 715 HD",
+      "site_id": "715#5715",
+      "xmltv_id": "NFLSundayTicket11.us@SD",
+      "strict_key": "nflsundayticket715hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 716",
+      "site_id": "716#716",
+      "xmltv_id": "NFLSundayTicket12.us@SD",
+      "strict_key": "nflsundayticket716"
+    },
+    {
+      "name": "NFL Sunday Ticket 716 HD",
+      "site_id": "716#5716",
+      "xmltv_id": "NFLSundayTicket12.us@SD",
+      "strict_key": "nflsundayticket716hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 717",
+      "site_id": "717#717",
+      "xmltv_id": "NFLSundayTicket13.us@SD",
+      "strict_key": "nflsundayticket717"
+    },
+    {
+      "name": "NFL Sunday Ticket 717 HD",
+      "site_id": "717#5717",
+      "xmltv_id": "NFLSundayTicket13.us@SD",
+      "strict_key": "nflsundayticket717hd"
+    },
+    {
+      "name": "NFL Sunday Ticket 718",
+      "site_id": "718#718",
+      "xmltv_id": "NFLSundayTicket14.us@SD",
+      "strict_key": "nflsundayticket718"
+    },
+    {
+      "name": "NFL Sunday Ticket 718 HD",
+      "site_id": "718#5718",
+      "xmltv_id": "NFLSundayTicket14.us@SD",
+      "strict_key": "nflsundayticket718hd"
+    },
+    {
+      "name": "NBA League Pass 747",
+      "site_id": "747#747",
+      "xmltv_id": "NBALeaguePass1.us@SD",
+      "strict_key": "nbaleaguepass747"
+    },
+    {
+      "name": "NBA League Pass HD 747",
+      "site_id": "747#5747",
+      "xmltv_id": "NBALeaguePass1.us@SD",
+      "strict_key": "nbaleaguepasshd747"
+    },
+    {
+      "name": "NBA League Pass 748",
+      "site_id": "748#748",
+      "xmltv_id": "NBALeaguePass2.us@SD",
+      "strict_key": "nbaleaguepass748"
+    },
+    {
+      "name": "NBA League Pass HD 748",
+      "site_id": "748#5748",
+      "xmltv_id": "NBALeaguePass2.us@SD",
+      "strict_key": "nbaleaguepasshd748"
+    },
+    {
+      "name": "NBA League Pass 749",
+      "site_id": "749#749",
+      "xmltv_id": "NBALeaguePass3.us@SD",
+      "strict_key": "nbaleaguepass749"
+    },
+    {
+      "name": "NBA League Pass HD 749",
+      "site_id": "749#5749",
+      "xmltv_id": "NBALeaguePass3.us@SD",
+      "strict_key": "nbaleaguepasshd749"
+    },
+    {
+      "name": "NBA League Pass 750",
+      "site_id": "750#750",
+      "xmltv_id": "NBALeaguePass4.us@SD",
+      "strict_key": "nbaleaguepass750"
+    },
+    {
+      "name": "Order 2022-23 NBA LEAGUE PASS NOW!",
+      "site_id": "750#4074",
+      "xmltv_id": "",
+      "strict_key": "order202223nbaleaguepassnow"
+    },
+    {
+      "name": "NBA LP Authorization Slide",
+      "site_id": "750#4075",
+      "xmltv_id": "",
+      "strict_key": "nbalpauthorizationslide"
+    },
+    {
+      "name": "NBA League Pass 750 HD",
+      "site_id": "750#5750",
+      "xmltv_id": "NBALeaguePass4.us@SD",
+      "strict_key": "nbaleaguepass750hd"
+    },
+    {
+      "name": "NBA League Pass 765",
+      "site_id": "765#765",
+      "xmltv_id": "NBALeaguePass5.us@SD",
+      "strict_key": "nbaleaguepass765"
+    },
+    {
+      "name": "NBA League Pass 765 HD",
+      "site_id": "765#5765",
+      "xmltv_id": "NBALeaguePass5.us@SD",
+      "strict_key": "nbaleaguepass765hd"
+    },
+    {
+      "name": "NBA League Pass 766",
+      "site_id": "766#766",
+      "xmltv_id": "NBALeaguePass6.us@SD",
+      "strict_key": "nbaleaguepass766"
+    },
+    {
+      "name": "NBA League Pass 766 HD",
+      "site_id": "766#5766",
+      "xmltv_id": "NBALeaguePass6.us@SD",
+      "strict_key": "nbaleaguepass766hd"
+    },
+    {
+      "name": "NBA League Pass 767",
+      "site_id": "767#767",
+      "xmltv_id": "NBALeaguePass7.us@SD",
+      "strict_key": "nbaleaguepass767"
+    },
+    {
+      "name": "NBA League Pass 767 HD",
+      "site_id": "767#5767",
+      "xmltv_id": "NBALeaguePass7.us@SD",
+      "strict_key": "nbaleaguepass767hd"
+    },
+    {
+      "name": "NBA League Pass 768",
+      "site_id": "768#768",
+      "xmltv_id": "NBALeaguePass8.us@SD",
+      "strict_key": "nbaleaguepass768"
+    },
+    {
+      "name": "NBA League Pass 768 HD",
+      "site_id": "768#5768",
+      "xmltv_id": "NBALeaguePass8.us@SD",
+      "strict_key": "nbaleaguepass768hd"
+    },
+    {
+      "name": "NHL Center Ice 769",
+      "site_id": "769#769",
+      "xmltv_id": "NHLCenterIce1.us@SD",
+      "strict_key": "nhlcenterice769"
+    },
+    {
+      "name": "Order 2022-23 NHL CENTER ICE NOW!",
+      "site_id": "769#2463",
+      "xmltv_id": "",
+      "strict_key": "order202223nhlcentericenow"
+    },
+    {
+      "name": "You are all set to watch the 2022-23 season of NHL CENTER ICE",
+      "site_id": "769#3830",
+      "xmltv_id": "",
+      "strict_key": "youareallsettowatchthe202223seasonofnhlcenterice"
+    },
+    {
+      "name": "NHL Center Ice 769 HD",
+      "site_id": "769#5769",
+      "xmltv_id": "NHLCenterIce1.us@SD",
+      "strict_key": "nhlcenterice769hd"
+    },
+    {
+      "name": "NHL Center Ice 771",
+      "site_id": "771#771",
+      "xmltv_id": "NHLCenterIce2.us@SD",
+      "strict_key": "nhlcenterice771"
+    },
+    {
+      "name": "NHL Center Ice 771 HD",
+      "site_id": "771#5771",
+      "xmltv_id": "NHLCenterIce2.us@SD",
+      "strict_key": "nhlcenterice771hd"
+    },
+    {
+      "name": "NHL Center Ice 773",
+      "site_id": "773#773",
+      "xmltv_id": "NHLCenterIce3.us@SD",
+      "strict_key": "nhlcenterice773"
+    },
+    {
+      "name": "NHL Center Ice 773 HD",
+      "site_id": "773#5773",
+      "xmltv_id": "NHLCenterIce3.us@SD",
+      "strict_key": "nhlcenterice773hd"
+    },
+    {
+      "name": "NHL Center Ice 774",
+      "site_id": "774#774",
+      "xmltv_id": "NHLCenterIce4.us@SD",
+      "strict_key": "nhlcenterice774"
+    },
+    {
+      "name": "NHL Center Ice 774 HD",
+      "site_id": "774#5774",
+      "xmltv_id": "NHLCenterIce4.us@SD",
+      "strict_key": "nhlcenterice774hd"
+    },
+    {
+      "name": "NHL Center Ice 775",
+      "site_id": "775#775",
+      "xmltv_id": "NHLCenterIce5.us@SD",
+      "strict_key": "nhlcenterice775"
+    },
+    {
+      "name": "NHL Center Ice 775 HD",
+      "site_id": "775#5775",
+      "xmltv_id": "NHLCenterIce5.us@SD",
+      "strict_key": "nhlcenterice775hd"
+    },
+    {
+      "name": "NHL Center Ice 776",
+      "site_id": "776#776",
+      "xmltv_id": "NHLCenterIce6.us@SD",
+      "strict_key": "nhlcenterice776"
+    },
+    {
+      "name": "NHL Center Ice 776 HD",
+      "site_id": "776#5776",
+      "xmltv_id": "NHLCenterIce6.us@SD",
+      "strict_key": "nhlcenterice776hd"
+    },
+    {
+      "name": "NHL Center Ice 777",
+      "site_id": "777#777",
+      "xmltv_id": "NHLCenterIce7.us@SD",
+      "strict_key": "nhlcenterice777"
+    },
+    {
+      "name": "NHL Center Ice 777 HD",
+      "site_id": "777#5777",
+      "xmltv_id": "NHLCenterIce7.us@SD",
+      "strict_key": "nhlcenterice777hd"
+    },
+    {
+      "name": "NHL Center Ice 778",
+      "site_id": "778#778",
+      "xmltv_id": "NHLCenterIce8.us@SD",
+      "strict_key": "nhlcenterice778"
+    },
+    {
+      "name": "NHL Center Ice 778 HD",
+      "site_id": "778#5778",
+      "xmltv_id": "NHLCenterIce8.us@SD",
+      "strict_key": "nhlcenterice778hd"
+    },
+    {
+      "name": "NHL Center Ice 779",
+      "site_id": "779#779",
+      "xmltv_id": "NHLCenterIce9.us@SD",
+      "strict_key": "nhlcenterice779"
+    },
+    {
+      "name": "NHL Center Ice 779 HD",
+      "site_id": "779#5779",
+      "xmltv_id": "NHLCenterIce9.us@SD",
+      "strict_key": "nhlcenterice779hd"
+    },
+    {
+      "name": "NHL Center Ice 780",
+      "site_id": "780#780",
+      "xmltv_id": "NHLCenterIce10.us@SD",
+      "strict_key": "nhlcenterice780"
+    },
+    {
+      "name": "NHL Center Ice 780 HD",
+      "site_id": "780#5780",
+      "xmltv_id": "NHLCenterIce10.us@SD",
+      "strict_key": "nhlcenterice780hd"
+    },
+    {
+      "name": "NHL Center Ice 781",
+      "site_id": "781#781",
+      "xmltv_id": "NHLCenterIce11.us@SD",
+      "strict_key": "nhlcenterice781"
+    },
+    {
+      "name": "NHL Center Ice 781 HD",
+      "site_id": "781#5781",
+      "xmltv_id": "NHLCenterIce11.us@SD",
+      "strict_key": "nhlcenterice781hd"
+    },
+    {
+      "name": "NHL Center Ice 782",
+      "site_id": "782#782",
+      "xmltv_id": "NHLCenterIce12.us@SD",
+      "strict_key": "nhlcenterice782"
+    },
+    {
+      "name": "NHL Center Ice 782 HD",
+      "site_id": "782#5782",
+      "xmltv_id": "NHLCenterIce12.us@SD",
+      "strict_key": "nhlcenterice782hd"
+    },
+    {
+      "name": "NHL Center Ice 783",
+      "site_id": "783#783",
+      "xmltv_id": "NHLCenterIce13.us@SD",
+      "strict_key": "nhlcenterice783"
+    },
+    {
+      "name": "NHL Center Ice 783 HD",
+      "site_id": "783#5783",
+      "xmltv_id": "NHLCenterIce13.us@SD",
+      "strict_key": "nhlcenterice783hd"
+    },
+    {
+      "name": "NHL Center Ice 784",
+      "site_id": "784#784",
+      "xmltv_id": "NHLCenterIce14.us@SD",
+      "strict_key": "nhlcenterice784"
+    },
+    {
+      "name": "NHL Center Ice 784 HD",
+      "site_id": "784#5784",
+      "xmltv_id": "NHLCenterIce14.us@SD",
+      "strict_key": "nhlcenterice784hd"
+    },
+    {
+      "name": "NHL Center Ice 785",
+      "site_id": "785#785",
+      "xmltv_id": "NHLCenterIce15.us@SD",
+      "strict_key": "nhlcenterice785"
+    },
+    {
+      "name": "NHL Center Ice 785 HD",
+      "site_id": "785#5785",
+      "xmltv_id": "NHLCenterIce15.us@SD",
+      "strict_key": "nhlcenterice785hd"
+    },
+    {
+      "name": "NHL Center Ice 786",
+      "site_id": "786#786",
+      "xmltv_id": "NHLCenterIce16.us@SD",
+      "strict_key": "nhlcenterice786"
+    },
+    {
+      "name": "NHL Center Ice 786 HD",
+      "site_id": "786#5786",
+      "xmltv_id": "NHLCenterIce16.us@SD",
+      "strict_key": "nhlcenterice786hd"
+    },
+    {
+      "name": "NHL Center Ice 787",
+      "site_id": "787#787",
+      "xmltv_id": "NHLCenterIce17.us@SD",
+      "strict_key": "nhlcenterice787"
+    },
+    {
+      "name": "NHL Center Ice 787 HD",
+      "site_id": "787#5787",
+      "xmltv_id": "NHLCenterIce17.us@SD",
+      "strict_key": "nhlcenterice787hd"
+    },
+    {
+      "name": "NHL Center Ice 788",
+      "site_id": "788#6635",
+      "xmltv_id": "NHLCenterIce18.us@SD",
+      "strict_key": "nhlcenterice788"
+    },
+    {
+      "name": "NHL Center Ice 789",
+      "site_id": "789#6636",
+      "xmltv_id": "NHLCenterIce19.us@SD",
+      "strict_key": "nhlcenterice789"
+    },
+    {
+      "name": "NHL Center Ice 790",
+      "site_id": "790#6637",
+      "xmltv_id": "NHLCenterIce20.us@SD",
+      "strict_key": "nhlcenterice790"
+    },
+    {
+      "name": "NHL Center Ice 791",
+      "site_id": "791#6638",
+      "xmltv_id": "NHLCenterIce21.us@SD",
+      "strict_key": "nhlcenterice791"
+    },
+    {
+      "name": "NHL Center Ice 792",
+      "site_id": "792#6639",
+      "xmltv_id": "NHLCenterIce22.us@SD",
+      "strict_key": "nhlcenterice792"
+    },
+    {
+      "name": "ESPN College Extra 793 HD",
+      "site_id": "793#793",
+      "xmltv_id": "ESPNCollegeExtra1.us@SD",
+      "strict_key": "espncollegeextra793hd"
+    },
+    {
+      "name": "NHL Center Ice 793",
+      "site_id": "793#1793",
+      "xmltv_id": "NHLCenterIce23.us@SD",
+      "strict_key": "nhlcenterice793"
+    },
+    {
+      "name": "ESPN College Extra 794 HD",
+      "site_id": "794#794",
+      "xmltv_id": "ESPNCollegeExtra2.us@SD",
+      "strict_key": "espncollegeextra794hd"
+    },
+    {
+      "name": "ESPN College Extra 795 HD",
+      "site_id": "795#795",
+      "xmltv_id": "ESPNCollegeExtra3.us@SD",
+      "strict_key": "espncollegeextra795hd"
+    },
+    {
+      "name": "ESPN College Extra 796 HD",
+      "site_id": "796#796",
+      "xmltv_id": "ESPNCollegeExtra4.us@SD",
+      "strict_key": "espncollegeextra796hd"
+    },
+    {
+      "name": "ESPN College Extra 797 HD",
+      "site_id": "797#2797",
+      "xmltv_id": "ESPNCollegeExtra5.us@SD",
+      "strict_key": "espncollegeextra797hd"
+    },
+    {
+      "name": "ESPN College Extra 798 HD",
+      "site_id": "798#6138",
+      "xmltv_id": "ESPNCollegeExtra6.us@SD",
+      "strict_key": "espncollegeextra798hd"
+    },
+    {
+      "name": "iHeartRADIO",
+      "site_id": "799#2156",
+      "xmltv_id": "",
+      "strict_key": "iheartradio"
+    },
+    {
+      "name": "Music Choice TV",
+      "site_id": "800#3821",
+      "xmltv_id": "",
+      "strict_key": "musicchoicetv"
+    },
+    {
+      "name": "Music Choice Big Band",
+      "site_id": "801#6137",
+      "xmltv_id": "",
+      "strict_key": "musicchoicebigband"
+    },
+    {
+      "name": "Music Choice Malt Shop Favorites",
+      "site_id": "802#2201",
+      "xmltv_id": "",
+      "strict_key": "musicchoicemaltshopfavorites"
+    },
+    {
+      "name": "Music Choice '60s Movement",
+      "site_id": "803#2202",
+      "xmltv_id": "",
+      "strict_key": "musicchoice60smovement"
+    },
+    {
+      "name": "Music Choice '70s",
+      "site_id": "804#2203",
+      "xmltv_id": "MusicChoice70s.us@SD",
+      "strict_key": "musicchoice70s"
+    },
+    {
+      "name": "Music Choice 70's Ultra",
+      "site_id": "804#6439",
+      "xmltv_id": "",
+      "strict_key": "musicchoice70sultra"
+    },
+    {
+      "name": "Music Choice '80s",
+      "site_id": "805#2204",
+      "xmltv_id": "MusicChoice80s.us@SD",
+      "strict_key": "musicchoice80s"
+    },
+    {
+      "name": "Music Choice '80s Ultra",
+      "site_id": "805#6443",
+      "xmltv_id": "",
+      "strict_key": "musicchoice80sultra"
+    },
+    {
+      "name": "Music Choice '90s",
+      "site_id": "806#2205",
+      "xmltv_id": "MusicChoice90s.us@SD",
+      "strict_key": "musicchoice90s"
+    },
+    {
+      "name": "Music Choice Singers & Swing",
+      "site_id": "807#3026",
+      "xmltv_id": "MusicChoiceSingersSwing.us@SD",
+      "strict_key": "musicchoicesingersandswing"
+    },
+    {
+      "name": "Music Choice Classic Country",
+      "site_id": "808#2206",
+      "xmltv_id": "MusicChoiceClassicCountry.us@SD",
+      "strict_key": "musicchoiceclassiccountry"
+    },
+    {
+      "name": "Music Choice Country Classic Ultra",
+      "site_id": "808#6442",
+      "xmltv_id": "",
+      "strict_key": "musicchoicecountryclassicultra"
+    },
+    {
+      "name": "Music Choice Country Hits",
+      "site_id": "809#2207",
+      "xmltv_id": "MusicChoiceCountryHits.us@SD",
+      "strict_key": "musicchoicecountryhits"
+    },
+    {
+      "name": "Music Choice Americana",
+      "site_id": "810#2208",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceamericana"
+    },
+    {
+      "name": "Music Choice Honky Tonk",
+      "site_id": "811#2209",
+      "xmltv_id": "",
+      "strict_key": "musicchoicehonkytonk"
+    },
+    {
+      "name": "Music Choice Bluegrass",
+      "site_id": "812#2210",
+      "xmltv_id": "",
+      "strict_key": "musicchoicebluegrass"
+    },
+    {
+      "name": "Music Choice Folk",
+      "site_id": "813#2211",
+      "xmltv_id": "",
+      "strict_key": "musicchoicefolk"
+    },
+    {
+      "name": "Music Choice Today's Country",
+      "site_id": "814#2212",
+      "xmltv_id": "MusicChoiceTodaysCountry.us@SD",
+      "strict_key": "musicchoicetodayscountry"
+    },
+    {
+      "name": "Music Choice Today's Country Ultra",
+      "site_id": "814#5002",
+      "xmltv_id": "",
+      "strict_key": "musicchoicetodayscountryultra"
+    },
+    {
+      "name": "Music Choice Sounds of the Seasons",
+      "site_id": "815#2200",
+      "xmltv_id": "MusicChoiceSoundsofTheSeasons.us@SD",
+      "strict_key": "musicchoicesoundsoftheseasons"
+    },
+    {
+      "name": "Music Choice Hit List",
+      "site_id": "816#2213",
+      "xmltv_id": "MusicChoiceHitList.us@SD",
+      "strict_key": "musicchoicehitlist"
+    },
+    {
+      "name": "Music Choice Y2K",
+      "site_id": "817#2214",
+      "xmltv_id": "MusicChoiceY2K.us@SD",
+      "strict_key": "musicchoicey2k"
+    },
+    {
+      "name": "Music Choice Max",
+      "site_id": "818#2215",
+      "xmltv_id": "MusicChoiceMax.us@SD",
+      "strict_key": "musicchoicemax"
+    },
+    {
+      "name": "Music Choice Love Songs",
+      "site_id": "819#2216",
+      "xmltv_id": "MusicChoiceLoveSongs.us@SD",
+      "strict_key": "musicchoicelovesongs"
+    },
+    {
+      "name": "Music Choice Contemporary Instrumentals",
+      "site_id": "820#2217",
+      "xmltv_id": "",
+      "strict_key": "musicchoicecontemporaryinstrumentals"
+    },
+    {
+      "name": "Music Choice Pop Hits",
+      "site_id": "821#2218",
+      "xmltv_id": "MusicChoicePopHits.us@SD",
+      "strict_key": "musicchoicepophits"
+    },
+    {
+      "name": "Music Choice Movie Scores",
+      "site_id": "822#2219",
+      "xmltv_id": "",
+      "strict_key": "musicchoicemoviescores"
+    },
+    {
+      "name": "Music Choice Broadway",
+      "site_id": "823#2220",
+      "xmltv_id": "",
+      "strict_key": "musicchoicebroadway"
+    },
+    {
+      "name": "Music Choice Lounge",
+      "site_id": "824#3294",
+      "xmltv_id": "",
+      "strict_key": "musicchoicelounge"
+    },
+    {
+      "name": "Music Choice Hip-Hop And R&B",
+      "site_id": "825#2222",
+      "xmltv_id": "MusicChoiceHipHopandRB.us@SD",
+      "strict_key": "musicchoicehiphopandrandb"
+    },
+    {
+      "name": "Music Choice Contemporary Christian",
+      "site_id": "826#2223",
+      "xmltv_id": "MusicChoiceContemporaryChristian.us@SD",
+      "strict_key": "musicchoicecontemporarychristian"
+    },
+    {
+      "name": "Music Choice Gospel",
+      "site_id": "827#2224",
+      "xmltv_id": "MusicChoiceGospel.us@SD",
+      "strict_key": "musicchoicegospel"
+    },
+    {
+      "name": "Music Choice Gospel Hallelujah",
+      "site_id": "828#2225",
+      "xmltv_id": "",
+      "strict_key": "musicchoicegospelhallelujah"
+    },
+    {
+      "name": "Music Choice '80s Rock",
+      "site_id": "829#8016",
+      "xmltv_id": "",
+      "strict_key": "musicchoice80srock"
+    },
+    {
+      "name": "Music Choice Metal",
+      "site_id": "830#2227",
+      "xmltv_id": "MusicChoiceMetal.us@SD",
+      "strict_key": "musicchoicemetal"
+    },
+    {
+      "name": "Music Choice Indie",
+      "site_id": "831#2228",
+      "xmltv_id": "MusicChoiceIndie.us@SD",
+      "strict_key": "musicchoiceindie"
+    },
+    {
+      "name": "Music Choice Adult Alternative",
+      "site_id": "832#2229",
+      "xmltv_id": "MusicChoiceAdultAlternative.us@SD",
+      "strict_key": "musicchoiceadultalternative"
+    },
+    {
+      "name": "Music Choice Classic Rock",
+      "site_id": "833#2230",
+      "xmltv_id": "MusicChoiceClassicRock.us@SD",
+      "strict_key": "musicchoiceclassicrock"
+    },
+    {
+      "name": "Music Choice Classic Rock Ultra",
+      "site_id": "833#3066",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceclassicrockultra"
+    },
+    {
+      "name": "Music Choice Alternative",
+      "site_id": "834#2231",
+      "xmltv_id": "MusicChoiceAlternative.us@SD",
+      "strict_key": "musicchoicealternative"
+    },
+    {
+      "name": "Music Choice Hard Rock",
+      "site_id": "835#2232",
+      "xmltv_id": "",
+      "strict_key": "musicchoicehardrock"
+    },
+    {
+      "name": "Music Choice Coffee Shop Cuts",
+      "site_id": "836#2233",
+      "xmltv_id": "",
+      "strict_key": "musicchoicecoffeeshopcuts"
+    },
+    {
+      "name": "Music Choice Rock Hits",
+      "site_id": "837#2234",
+      "xmltv_id": "MusicChoiceRockHits.us@SD",
+      "strict_key": "musicchoicerockhits"
+    },
+    {
+      "name": "Music Choice Classic Alternative",
+      "site_id": "838#2235",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceclassicalternative"
+    },
+    {
+      "name": "Music Choice New Wave",
+      "site_id": "839#2236",
+      "xmltv_id": "",
+      "strict_key": "musicchoicenewwave"
+    },
+    {
+      "name": "Music Choice Pop & Country",
+      "site_id": "840#2226",
+      "xmltv_id": "MusicChoicePopCountry.us@SD",
+      "strict_key": "musicchoicepopandcountry"
+    },
+    {
+      "name": "Music Choice Rock",
+      "site_id": "841#2270",
+      "xmltv_id": "MusicChoiceRock.us@SD",
+      "strict_key": "musicchoicerock"
+    },
+    {
+      "name": "Music Choice R&B Classics",
+      "site_id": "842#2237",
+      "xmltv_id": "MusicChoiceRBClassics.us@SD",
+      "strict_key": "musicchoicerandbclassics"
+    },
+    {
+      "name": "Music Choice R&B Soul",
+      "site_id": "843#2239",
+      "xmltv_id": "MusicChoiceRBSoul.us@SD",
+      "strict_key": "musicchoicerandbsoul"
+    },
+    {
+      "name": "Music Choice Funk",
+      "site_id": "844#2240",
+      "xmltv_id": "",
+      "strict_key": "musicchoicefunk"
+    },
+    {
+      "name": "Music Choice Classic Dance",
+      "site_id": "845#8440",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceclassicdance"
+    },
+    {
+      "name": "Music Choice Rap",
+      "site_id": "846#8441",
+      "xmltv_id": "MusicChoiceRap.us@SD",
+      "strict_key": "musicchoicerap"
+    },
+    {
+      "name": "Music Choice Mainstream Rap",
+      "site_id": "847#2243",
+      "xmltv_id": "",
+      "strict_key": "musicchoicemainstreamrap"
+    },
+    {
+      "name": "Music Choice Throwback Jamz",
+      "site_id": "848#8017",
+      "xmltv_id": "MusicChoiceThrowbackJamz.us@SD",
+      "strict_key": "musicchoicethrowbackjamz"
+    },
+    {
+      "name": "Music Choice Soft Rock",
+      "site_id": "849#1938",
+      "xmltv_id": "MusicChoiceSoftRock.us@SD",
+      "strict_key": "musicchoicesoftrock"
+    },
+    {
+      "name": "Music Choice Jazz Vocal Hits",
+      "site_id": "850#2245",
+      "xmltv_id": "",
+      "strict_key": "musicchoicejazzvocalhits"
+    },
+    {
+      "name": "Music Choice Smooth Jazz",
+      "site_id": "851#2246",
+      "xmltv_id": "MusicChoiceSmoothJazz.us@SD",
+      "strict_key": "musicchoicesmoothjazz"
+    },
+    {
+      "name": "Music Choice Jazz",
+      "site_id": "852#4147",
+      "xmltv_id": "MusicChoiceJazz.us@SD",
+      "strict_key": "musicchoicejazz"
+    },
+    {
+      "name": "Music Choice Easy Listening",
+      "site_id": "853#4138",
+      "xmltv_id": "MusicChoiceEasyListening.us@SD",
+      "strict_key": "musicchoiceeasylistening"
+    },
+    {
+      "name": "Music Choice Blues",
+      "site_id": "854#2249",
+      "xmltv_id": "MusicChoiceBlues.us@SD",
+      "strict_key": "musicchoiceblues"
+    },
+    {
+      "name": "Music Choice Jazz Vocal Standards",
+      "site_id": "855#5497",
+      "xmltv_id": "",
+      "strict_key": "musicchoicejazzvocalstandards"
+    },
+    {
+      "name": "Music Choice New Age",
+      "site_id": "856#2251",
+      "xmltv_id": "",
+      "strict_key": "musicchoicenewage"
+    },
+    {
+      "name": "Music Choice Soundscapes",
+      "site_id": "857#2271",
+      "xmltv_id": "MusicChoiceSoundscapes.us@SD",
+      "strict_key": "musicchoicesoundscapes"
+    },
+    {
+      "name": "Music Choice Soundscapes Ultra",
+      "site_id": "857#6445",
+      "xmltv_id": "",
+      "strict_key": "musicchoicesoundscapesultra"
+    },
+    {
+      "name": "Music Choice Classic Christmas",
+      "site_id": "858#2252",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceclassicchristmas"
+    },
+    {
+      "name": "Music Choice Dance/EDM",
+      "site_id": "859#2253",
+      "xmltv_id": "MusicChoiceDanceEDM.us@SD",
+      "strict_key": "musicchoicedanceedm"
+    },
+    {
+      "name": "Music Choice Workout",
+      "site_id": "860#4151",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceworkout"
+    },
+    {
+      "name": "Music Choice K-Pop",
+      "site_id": "861#3027",
+      "xmltv_id": "",
+      "strict_key": "musicchoicekpop"
+    },
+    {
+      "name": "Music Choice Retro Workout",
+      "site_id": "862#8449",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceretroworkout"
+    },
+    {
+      "name": "Music Choice Reggae",
+      "site_id": "863#2257",
+      "xmltv_id": "MusicChoiceReggae.us@SD",
+      "strict_key": "musicchoicereggae"
+    },
+    {
+      "name": "Music Choice Symphony",
+      "site_id": "864#2258",
+      "xmltv_id": "",
+      "strict_key": "musicchoicesymphony"
+    },
+    {
+      "name": "Music Choice Classical Masterpieces",
+      "site_id": "865#4150",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceclassicalmasterpieces"
+    },
+    {
+      "name": "Music Choice Light Classical",
+      "site_id": "866#2260",
+      "xmltv_id": "MusicChoiceLightClassical.us@SD",
+      "strict_key": "musicchoicelightclassical"
+    },
+    {
+      "name": "Music Choice Teen Beats",
+      "site_id": "867#2261",
+      "xmltv_id": "MusicChoiceTeenBeats.us@SD",
+      "strict_key": "musicchoiceteenbeats"
+    },
+    {
+      "name": "Music Choice Kids Only!",
+      "site_id": "868#2262",
+      "xmltv_id": "MusicChoiceKidzOnly.us@SD",
+      "strict_key": "musicchoicekidsonly"
+    },
+    {
+      "name": "Music Choice Toddler Tunes",
+      "site_id": "869#2265",
+      "xmltv_id": "MusicChoiceToddlerTunes.us@SD",
+      "strict_key": "musicchoicetoddlertunes"
+    },
+    {
+      "name": "Music Choice Romances",
+      "site_id": "870#3267",
+      "xmltv_id": "MusicChoiceRomances.us@SD",
+      "strict_key": "musicchoiceromances"
+    },
+    {
+      "name": "Music Choice Pop Latino",
+      "site_id": "871#8333",
+      "xmltv_id": "MusicChoicePopLatino.us@SD",
+      "strict_key": "musicchoicepoplatino"
+    },
+    {
+      "name": "Music Choice Tropicales",
+      "site_id": "874#8012",
+      "xmltv_id": "MusicChoiceTropicales.us@SD",
+      "strict_key": "musicchoicetropicales"
+    },
+    {
+      "name": "Music Choice Musica Urbana",
+      "site_id": "875#8920",
+      "xmltv_id": "MusicChoiceMusicUrbana.us@SD",
+      "strict_key": "musicchoicemusicaurbana"
+    },
+    {
+      "name": "Music Choice Mexicana",
+      "site_id": "876#6136",
+      "xmltv_id": "MusicChoiceMexicana.us@SD",
+      "strict_key": "musicchoicemexicana"
+    },
+    {
+      "name": "Music Choice Brazilian Pop",
+      "site_id": "877#3690",
+      "xmltv_id": "",
+      "strict_key": "musicchoicebrazilianpop"
+    },
+    {
+      "name": "Music Choice Rock Latino",
+      "site_id": "878#8924",
+      "xmltv_id": "",
+      "strict_key": "musicchoicerocklatino"
+    },
+    {
+      "name": "Music Choice Latin Jazz",
+      "site_id": "879#8999",
+      "xmltv_id": "",
+      "strict_key": "musicchoicelatinjazz"
+    },
+    {
+      "name": "Music Choice Party Favorites",
+      "site_id": "880#4148",
+      "xmltv_id": "MusicChoicePartyFavorites.us@SD",
+      "strict_key": "musicchoicepartyfavorites"
+    },
+    {
+      "name": "Music Choice Taste of Italy",
+      "site_id": "881#6135",
+      "xmltv_id": "",
+      "strict_key": "musicchoicetasteofitaly"
+    },
+    {
+      "name": "Music Choice Italian Favorites",
+      "site_id": "882#5537",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceitalianfavorites"
+    },
+    {
+      "name": "Music Choice Irish Favorites",
+      "site_id": "883#8745",
+      "xmltv_id": "",
+      "strict_key": "musicchoiceirishfavorites"
+    },
+    {
+      "name": "Music Choice Nature Sounds",
+      "site_id": "884#5538",
+      "xmltv_id": "",
+      "strict_key": "musicchoicenaturesounds"
+    },
+    {
+      "name": "Music Choice Filipino",
+      "site_id": "885#8374",
+      "xmltv_id": "",
+      "strict_key": "musicchoicefilipino"
+    },
+    {
+      "name": "Music Choice Vietnamese",
+      "site_id": "886#8379",
+      "xmltv_id": "",
+      "strict_key": "musicchoicevietnamese"
+    },
+    {
+      "name": "US Open Mix Channel",
+      "site_id": "901#5871",
+      "xmltv_id": "",
+      "strict_key": "usopenmixchannel"
+    },
+    {
+      "name": "US Open Network Simulcast",
+      "site_id": "902#5858",
+      "xmltv_id": "",
+      "strict_key": "usopennetworksimulcast"
+    },
+    {
+      "name": "US Open Court Channel 1",
+      "site_id": "903#5864",
+      "xmltv_id": "",
+      "strict_key": "usopencourtchannel1"
+    },
+    {
+      "name": "US Open Court Channel 2",
+      "site_id": "904#5850",
+      "xmltv_id": "",
+      "strict_key": "usopencourtchannel2"
+    },
+    {
+      "name": "US Open Court Channel 3",
+      "site_id": "905#6926",
+      "xmltv_id": "",
+      "strict_key": "usopencourtchannel3"
+    },
+    {
+      "name": "US Open Court Channel 4",
+      "site_id": "906#5828",
+      "xmltv_id": "",
+      "strict_key": "usopencourtchannel4"
+    },
+    {
+      "name": "US Open Court Channel 5",
+      "site_id": "907#6966",
+      "xmltv_id": "",
+      "strict_key": "usopencourtchannel5"
+    },
+    {
+      "name": "MediaSet Italia (99R)",
+      "site_id": "2020#4555",
+      "xmltv_id": "",
+      "strict_key": "mediasetitalia99r"
+    },
+    {
+      "name": "Rai Italia",
+      "site_id": "2021#4540",
+      "xmltv_id": "",
+      "strict_key": "raiitalia"
+    },
+    {
+      "name": "Rai News 24",
+      "site_id": "2022#4543",
+      "xmltv_id": "",
+      "strict_key": "rainews24"
+    },
+    {
+      "name": "Rai World Premium",
+      "site_id": "2023#4546",
+      "xmltv_id": "",
+      "strict_key": "raiworldpremium"
+    },
+    {
+      "name": "Radio Rai",
+      "site_id": "2024#4538",
+      "xmltv_id": "",
+      "strict_key": "radiorai"
+    },
+    {
+      "name": "SBTN (99R)",
+      "site_id": "2030#4513",
+      "xmltv_id": "",
+      "strict_key": "sbtn99r"
+    },
+    {
+      "name": "VGN TV",
+      "site_id": "2031#4537",
+      "xmltv_id": "",
+      "strict_key": "vgntv"
+    },
+    {
+      "name": "Tviet (99R)",
+      "site_id": "2032#4549",
+      "xmltv_id": "",
+      "strict_key": "tviet99r"
+    },
+    {
+      "name": "Viet Face (99R)",
+      "site_id": "2033#4501",
+      "xmltv_id": "",
+      "strict_key": "vietface99r"
+    },
+    {
+      "name": "S Channel",
+      "site_id": "2034#4528",
+      "xmltv_id": "",
+      "strict_key": "schannel"
+    },
+    {
+      "name": "Vien Thao (99R)",
+      "site_id": "2035#4560",
+      "xmltv_id": "",
+      "strict_key": "vienthao99r"
+    },
+    {
+      "name": "Vietv (99R)",
+      "site_id": "2036#4532",
+      "xmltv_id": "",
+      "strict_key": "vietv99r"
+    },
+    {
+      "name": "Film 24H",
+      "site_id": "2037#4534",
+      "xmltv_id": "",
+      "strict_key": "film24h"
+    },
+    {
+      "name": "Honvietv",
+      "site_id": "2038#4554",
+      "xmltv_id": "",
+      "strict_key": "honvietv"
+    },
+    {
+      "name": "Little Saigon Radio Channel (99R)",
+      "site_id": "2039#4552",
+      "xmltv_id": "",
+      "strict_key": "littlesaigonradiochannel99r"
+    },
+    {
+      "name": "TV Japan",
+      "site_id": "2040#2192",
+      "xmltv_id": "",
+      "strict_key": "tvjapan"
+    },
+    {
+      "name": "Nippon TV HD",
+      "site_id": "2041#2194",
+      "xmltv_id": "JOAXDTV.jp@SD",
+      "strict_key": "nippontvhd"
+    },
+    {
+      "name": "Channel NECO International",
+      "site_id": "2042#2195",
+      "xmltv_id": "ChannelNecoInternational.jp@SD",
+      "strict_key": "channelnecointernational"
+    },
+    {
+      "name": "NHK World News 2049",
+      "site_id": "2049#546",
+      "xmltv_id": "",
+      "strict_key": "nhkworldnews2049"
+    },
+    {
+      "name": "Phoenix TV (2050)",
+      "site_id": "2050#4535",
+      "xmltv_id": "",
+      "strict_key": "phoenixtv2050"
+    },
+    {
+      "name": "Phoenix Info News (99R)",
+      "site_id": "2051#4509",
+      "xmltv_id": "",
+      "strict_key": "phoenixinfonews99r"
+    },
+    {
+      "name": "CCTV4",
+      "site_id": "2052#4500",
+      "xmltv_id": "CCTV4America.cn@SD",
+      "strict_key": "cctv4"
+    },
+    {
+      "name": "CGTN 2053 (99R)",
+      "site_id": "2053#4556",
+      "xmltv_id": "",
+      "strict_key": "cgtn205399r"
+    },
+    {
+      "name": "Charming China 2055",
+      "site_id": "2055#4508",
+      "xmltv_id": "CharmingChina.us@SD",
+      "strict_key": "charmingchina2055"
+    },
+    {
+      "name": "CTI TV (99R)",
+      "site_id": "2056#4511",
+      "xmltv_id": "",
+      "strict_key": "ctitv99r"
+    },
+    {
+      "name": "CBO (99R)",
+      "site_id": "2057#4541",
+      "xmltv_id": "",
+      "strict_key": "cbo99r"
+    },
+    {
+      "name": "TFC - The Filipino Channel (99R)",
+      "site_id": "2060#4548",
+      "xmltv_id": "TheFilipinoChannelNorthAmerica.us@SD",
+      "strict_key": "tfcthefilipinochannel99r"
+    },
+    {
+      "name": "GMA Pinoy TV",
+      "site_id": "2061#4544",
+      "xmltv_id": "",
+      "strict_key": "gmapinoytv"
+    },
+    {
+      "name": "PBO",
+      "site_id": "2062#6703",
+      "xmltv_id": "",
+      "strict_key": "pbo"
+    },
+    {
+      "name": "Cinema One Global",
+      "site_id": "2063#4530",
+      "xmltv_id": "",
+      "strict_key": "cinemaoneglobal"
+    },
+    {
+      "name": "OPM TV",
+      "site_id": "2064#8918",
+      "xmltv_id": "NuestraVision.us@SD",
+      "strict_key": "opmtv"
+    },
+    {
+      "name": "MOR 101.9 (99R)",
+      "site_id": "2065#4550",
+      "xmltv_id": "",
+      "strict_key": "mor101999r"
+    },
+    {
+      "name": "DZMM (99R)",
+      "site_id": "2066#4551",
+      "xmltv_id": "",
+      "strict_key": "dzmm99r"
+    },
+    {
+      "name": "Myx",
+      "site_id": "2067#4547",
+      "xmltv_id": "",
+      "strict_key": "myx"
+    },
+    {
+      "name": "Sari Sari Channel",
+      "site_id": "2068#1113",
+      "xmltv_id": "",
+      "strict_key": "sarisarichannel"
+    },
+    {
+      "name": "GMA Life (99R)",
+      "site_id": "2069#4542",
+      "xmltv_id": "",
+      "strict_key": "gmalife99r"
+    },
+    {
+      "name": "ANC (99R)",
+      "site_id": "2070#4512",
+      "xmltv_id": "",
+      "strict_key": "anc99r"
+    },
+    {
+      "name": "TV5 (99R)",
+      "site_id": "2071#4514",
+      "xmltv_id": "",
+      "strict_key": "tv599r"
+    },
+    {
+      "name": "SBS 2080 (99R)",
+      "site_id": "2080#4506",
+      "xmltv_id": "",
+      "strict_key": "sbs208099r"
+    },
+    {
+      "name": "SBS HD",
+      "site_id": "2080#5050",
+      "xmltv_id": "",
+      "strict_key": "sbshd"
+    },
+    {
+      "name": "MBC",
+      "site_id": "2081#4518",
+      "xmltv_id": "",
+      "strict_key": "mbc"
+    },
+    {
+      "name": "KBS America HD",
+      "site_id": "2082#552",
+      "xmltv_id": "",
+      "strict_key": "kbsamericahd"
+    },
+    {
+      "name": "KBS America",
+      "site_id": "2082#4525",
+      "xmltv_id": "",
+      "strict_key": "kbsamerica"
+    },
+    {
+      "name": "YTN",
+      "site_id": "2083#4539",
+      "xmltv_id": "",
+      "strict_key": "ytn"
+    },
+    {
+      "name": "SBS Plus (99R)",
+      "site_id": "2084#4502",
+      "xmltv_id": "",
+      "strict_key": "sbsplus99r"
+    },
+    {
+      "name": "KBS Korea",
+      "site_id": "2085#8415",
+      "xmltv_id": "KBSKorea.kr@SD",
+      "strict_key": "kbskorea"
+    },
+    {
+      "name": "EBS (99R)",
+      "site_id": "2087#4505",
+      "xmltv_id": "",
+      "strict_key": "ebs99r"
+    },
+    {
+      "name": "MBN (99R)",
+      "site_id": "2088#4515",
+      "xmltv_id": "",
+      "strict_key": "mbn99r"
+    },
+    {
+      "name": "Tan",
+      "site_id": "2089#4533",
+      "xmltv_id": "",
+      "strict_key": "tan"
+    },
+    {
+      "name": "CTS",
+      "site_id": "2092#4529",
+      "xmltv_id": "",
+      "strict_key": "cts"
+    },
+    {
+      "name": "RadioS",
+      "site_id": "2093#4553",
+      "xmltv_id": "",
+      "strict_key": "radios"
+    },
+    {
+      "name": "Arirang TV",
+      "site_id": "2095#2486",
+      "xmltv_id": "ArirangTV.kr@SD",
+      "strict_key": "arirangtv"
+    },
+    {
+      "name": "GZTV",
+      "site_id": "2102#6030",
+      "xmltv_id": "",
+      "strict_key": "gztv"
+    },
+    {
+      "name": "88 TV",
+      "site_id": "2103#5542",
+      "xmltv_id": "88TV.us@SD",
+      "strict_key": "88tv"
+    },
+    {
+      "name": "Phoenix Hong Kong",
+      "site_id": "2104#4700",
+      "xmltv_id": "",
+      "strict_key": "phoenixhongkong"
+    },
+    {
+      "name": "88 Films",
+      "site_id": "2105#6064",
+      "xmltv_id": "88Films.us@SD",
+      "strict_key": "88films"
+    },
+    {
+      "name": "I Cable Finance",
+      "site_id": "2108#4056",
+      "xmltv_id": "",
+      "strict_key": "icablefinance"
+    },
+    {
+      "name": "I Cable News",
+      "site_id": "2109#3689",
+      "xmltv_id": "",
+      "strict_key": "icablenews"
+    },
+    {
+      "name": "CTI Zhong Tian",
+      "site_id": "2112#5450",
+      "xmltv_id": "",
+      "strict_key": "ctizhongtian"
+    },
+    {
+      "name": "CCTV-4 2113",
+      "site_id": "2113#5448",
+      "xmltv_id": "CCTV4America.cn@SD",
+      "strict_key": "cctv42113"
+    },
+    {
+      "name": "Phoenix TV (2115)",
+      "site_id": "2115#6416",
+      "xmltv_id": "",
+      "strict_key": "phoenixtv2115"
+    },
+    {
+      "name": "Charming China 2116",
+      "site_id": "2116#4031",
+      "xmltv_id": "CharmingChina.us@SD",
+      "strict_key": "charmingchina2116"
+    },
+    {
+      "name": "CGTN 2119",
+      "site_id": "2119#4053",
+      "xmltv_id": "",
+      "strict_key": "cgtn2119"
+    },
+    {
+      "name": "TV Globo (99R)",
+      "site_id": "2134#4519",
+      "xmltv_id": "",
+      "strict_key": "tvglobo99r"
+    },
+    {
+      "name": "SporTV",
+      "site_id": "2135#4503",
+      "xmltv_id": "",
+      "strict_key": "sportv"
+    },
+    {
+      "name": "RTVI",
+      "site_id": "2148#4504",
+      "xmltv_id": "",
+      "strict_key": "rtvi"
+    }
+  ]
+}
